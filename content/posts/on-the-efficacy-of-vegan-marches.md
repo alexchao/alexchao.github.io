@@ -9,9 +9,7 @@ I wonder if these marches manage to convince enough people to reduce their meat 
 
 While wandering around in London's Piccadilly Circus neighborhood, I stumbled upon what I later learned to be the National Animal Rights March. A sizable gathering of colorful and impassioned people, young and old, were marching down the street with signs and banners, advocating greater sensibilities for the treatment of animals and a wholesale prohibition on the consumption of animal meat.
 
-![](https://alexchao-blog-media.s3.amazonaws.com/2022/08/p1030151.jpg?w=1024)
-
-National Animal Rights March — August 6, 2022
+{{< figure src="https://alexchao-blog-media.s3.amazonaws.com/2022/08/p1030151.jpg" caption="National Animal Rights March — August 6, 2022">}}
 
 Standing on the sidewalk as a spectator, I wondered how this scene would be received by the average passerby, and then again by the vaguely politically centrist Western adult whose value system is vulnerable to rational argument, but who also enjoys a juicy hamburger every now and then. Certainly, principal among the goals of this march was an increased concern for animal well-being, further cashed out by a reduction in the consumption of animal meat and greatly improved conditions for those animals raised for slaughter. But in that moment, I felt that the spirit of these goals was lost amidst the thunderous pounding of the drums and clamor of the numerous chants and rallying cries.
 

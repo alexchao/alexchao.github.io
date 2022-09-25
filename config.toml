@@ -1,4 +1,108 @@
-baseURL = 'https://alexchao.github.io/'
-languageCode = 'en-us'
-title = 'Alex Chao'
-theme = "ananke"
+baseURL = "https://alexchao.github.io/"
+title = "Alex Chao"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+# googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Alex Chao"
+description = "Where I write about my thoughts"
+keywords = [ "Blog", "PaperMod" ]
+# author = "AChao"
+# images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "light"
+disableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  # [params.assets]
+  # favicon = "<link / abs url>"
+  # favicon16x16 = "<link / abs url>"
+  # favicon32x32 = "<link / abs url>"
+  # apple_touch_icon = "<link / abs url>"
+  # safari_pinned_tab = "<link / abs url>"
+
+  [params.label]
+  text = "Alex Chao"
+  # icon = "/apple-touch-icon.png"
+  # iconHeight = 35
+
+  # [params.profileMode]
+  # enabled = false
+  # title = "ExampleSite"
+  # subtitle = "This is subtitle"
+  # imageUrl = "<img location>"
+  # imageWidth = 120
+  # imageHeight = 120
+  # imageTitle = "my image"
+
+  #   [[params.profileMode.buttons]]
+  #   name = "Posts"
+  #   url = "posts"
+
+  #   [[params.profileMode.buttons]]
+  #   name = "Tags"
+  #   url = "tags"
+
+  # [params.homeInfoParams]
+  # Title = "Hi there 👋"
+  # Content = "Welcome to my blog"
+
+  # [[params.socialIcons]]
+  # name = "github"
+  # url = "https://github.com/alexchao"
+
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive/"
+weight = 20
+
+# [[menu.main]]
+# identifier = "posts"
+# name = "Posts"
+# url = "/posts/"
+# weight = 20
+
+# [[menu.main]]
+# identifier = "tags"
+# name = "Tags"
+# url = "/tags/"
+# weight = 30
+
+[markup.highlight]
+noClasses = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
