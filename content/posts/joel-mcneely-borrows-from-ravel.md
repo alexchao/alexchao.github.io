@@ -5,13 +5,13 @@ draft: false
 tags: ['film score']
 ---
 
-Not everyone is familiar with the installment of the _Star Wars_ franchise titled _Shadows of the Empire_, but that's mostly because it was a media event that never made it to the big screen. Nonetheless, the video game it spawned deserves some recognition among video games for its use of a fully orchestrated, studio recorded, original soundtrack composed by film and TV composer **Joel McNeely**. \[caption id="attachment\_581" align="aligncenter" width="500" caption="Star Wars: Shadows of the Empire, cover art"\]![Star Wars: Shadows of the Empire](https://alexchaocom.files.wordpress.com/2021/07/20cef-sote.jpg "Star Wars: Shadows of the Empire")\[/caption\]
+Not everyone is familiar with the installment of the _Star Wars_ franchise titled _Shadows of the Empire_, but that's mostly because it was a media event that never made it to the big screen. Nonetheless, the video game it spawned deserves some recognition among video games for its use of a fully orchestrated, studio recorded, original soundtrack composed by film and TV composer **Joel McNeely**. \[caption id="attachment\_581" align="aligncenter" width="500" caption="Star Wars: Shadows of the Empire, cover art"\]![Star Wars: Shadows of the Empire](https://alexchao-blog-media.s3.amazonaws.com/2021/07/20cef-sote.jpg "Star Wars: Shadows of the Empire")\[/caption\]
 
 The other day, I listened to a [Naxos recording](http://www.naxos.com/catalogue/item.asp?item_code=8.570075 "Naxos recording of Ravel's Daphnis et Chloe") of Ravel's entire _Daphnis et Chloé_ ballet for the first time (Ravel also arranged two smaller orchestral suites of the work) and realized that McNeely derived parts of his own score from this piece. The one passage that caught my attention opens Part II of the ballet—a scene that depicts a camp of pirates cavorting at night in a savage, sabbath-like dance.
 
-[Ravel, Daphnis et Chloe](https://alexchaocom.files.wordpress.com/2021/07/7a72a-ravel-daphnis_et_chloe-interlude.mp3 "Ravel, Daphnis et Chloe")
+[Ravel, Daphnis et Chloe](https://alexchao-blog-media.s3.amazonaws.com/2021/07/7a72a-ravel-daphnis_et_chloe-interlude.mp3 "Ravel, Daphnis et Chloe")
 
-[Joel McNeely, Shadows of the Empire](https://alexchaocom.files.wordpress.com/2021/07/989fc-mcneely-sote-xizors_palace.mp3 "Joel McNeely, Shadows of the Empire")
+[Joel McNeely, Shadows of the Empire](https://alexchao-blog-media.s3.amazonaws.com/2021/07/989fc-mcneely-sote-xizors_palace.mp3 "Joel McNeely, Shadows of the Empire")
 
 The familiarity was enough to make me immediately drop whatever it was that I was doing and fire off a Google search for "joel mcneely daphnis", which turned up a [forum thread](http://forums.ffshrine.org/showthread.php?p=1267435 "FFShrine forum, Joel McNeely") in which one user points out that McNeely derived his music for _Shadows of the Empire_ from two works: Ravel's ballet and another, _The Quest_, by British composer William Walton.
 

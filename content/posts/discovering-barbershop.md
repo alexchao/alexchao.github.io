@@ -9,7 +9,7 @@ Singing in a boys choir when I was younger and later singing with my high school
 
 Enter barbershop music.
 
-\[caption id="attachment\_845" align="aligncenter" width="660"\]![My barbershop quartet competing in Taiwan](https://alexchaocom.files.wordpress.com/2021/07/d16d8-13041255_1043927599016138_7590714790463370219_o.jpg?w=1024&h=521) My barbershop quartet competing in Taiwan\[/caption\]
+\[caption id="attachment\_845" align="aligncenter" width="660"\]![My barbershop quartet competing in Taiwan](https://alexchao-blog-media.s3.amazonaws.com/2021/07/d16d8-13041255_1043927599016138_7590714790463370219_o.jpg?w=1024&h=521) My barbershop quartet competing in Taiwan\[/caption\]
 
 It's ironic that I had to leave the states and travel over 7,000 miles to Taiwan to discover and embrace what is often known as a uniquely American tradition, but barbershop music proved itself to me to be a class of _a cappella_ singing that shares almost no common ground with the modern vocal band. A precise specification of the style is in fact written into the [Barbershop Harmony Society](http://www.barbershop.org/)'s _Contest and Judging Handbook_. The section that outlines contest entry requirements reads:
 

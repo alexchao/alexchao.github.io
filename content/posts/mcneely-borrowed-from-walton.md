@@ -5,7 +5,7 @@ draft: false
 tags: ['film score']
 ---
 
-So [as I said I would](http://alexchao.com/2010/08/joel-mcneely-borrows-from-ravel/ "McNeely borrows from Ravel"), I finally got around to evaluating the claim that **Joel McNeely**'s score to the novel and video game _Shadows of the Empire_ "borrows" plainly and unashamedly from the ballet _The Quest_ by 20th century British composer **William Walton**. \[caption id="attachment\_620" align="aligncenter" width="500" caption="William Walton, 1902-1983"\]![William Walton](https://alexchaocom.files.wordpress.com/2021/07/b9071-walton.jpg "William Walton")\[/caption\]
+So [as I said I would](http://alexchao.com/2010/08/joel-mcneely-borrows-from-ravel/ "McNeely borrows from Ravel"), I finally got around to evaluating the claim that **Joel McNeely**'s score to the novel and video game _Shadows of the Empire_ "borrows" plainly and unashamedly from the ballet _The Quest_ by 20th century British composer **William Walton**. \[caption id="attachment\_620" align="aligncenter" width="500" caption="William Walton, 1902-1983"\]![William Walton](https://alexchao-blog-media.s3.amazonaws.com/2021/07/b9071-walton.jpg "William Walton")\[/caption\]
 
 I'll say right now that my findings lend a lot of credence to the forum post that inspired my investigation:
 
@@ -13,15 +13,15 @@ I'll say right now that my findings lend a lot of credence to the forum post tha
 
 My sentiments are sort of consistent with that last statement, since until now, I heralded the SOTE score as a work of underappreciated musical substance. To be fair, I think it still captures the character of the novel and game really well, which is its purpose ultimately, and there _is_ a lot of really enjoyable and original writing in it. But listen just once to Walton's ballet and the hijacked material is immediately obvious. In fact, the _first thirty seconds_ of the ballet appear (if only slightly modified) in the final track of the score.
 
-[William Walton, The Quest, opening](https://alexchaocom.files.wordpress.com/2021/07/a194f-walton-the_quest-opening.mp3)
+[William Walton, The Quest, opening](https://alexchao-blog-media.s3.amazonaws.com/2021/07/a194f-walton-the_quest-opening.mp3)
 
-[Joel McNeely, SOTE, The Destruction of Xizor's Palace](https://alexchaocom.files.wordpress.com/2021/07/0154f-mcneely-sote-xizors_palace_2.mp3)
+[Joel McNeely, SOTE, The Destruction of Xizor's Palace](https://alexchao-blog-media.s3.amazonaws.com/2021/07/0154f-mcneely-sote-xizors_palace_2.mp3)
 
 And in the same key no less. There's also a recurring, dance-like figure in the woodwinds that McNeely uses for the Beggar's Canyon Chase scene.
 
-[Walton, The Quest, woodwind motif](https://alexchaocom.files.wordpress.com/2021/07/b51a1-walton-the_quest-archimago.mp3)
+[Walton, The Quest, woodwind motif](https://alexchao-blog-media.s3.amazonaws.com/2021/07/b51a1-walton-the_quest-archimago.mp3)
 
-[McNeely, SOTE, Beggar's Canyon Chase](https://alexchaocom.files.wordpress.com/2021/07/2a7dd-mcneely-sote-beggars_canyon.mp3)
+[McNeely, SOTE, Beggar's Canyon Chase](https://alexchao-blog-media.s3.amazonaws.com/2021/07/2a7dd-mcneely-sote-beggars_canyon.mp3)
 
 Hm, also in the same key. These are just two of the appropriated passages.
 

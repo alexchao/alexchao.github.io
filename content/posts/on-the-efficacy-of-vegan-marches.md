@@ -9,7 +9,7 @@ I wonder if these marches manage to convince enough people to reduce their meat 
 
 While wandering around in London's Piccadilly Circus neighborhood, I stumbled upon what I later learned to be the National Animal Rights March. A sizable gathering of colorful and impassioned people, young and old, were marching down the street with signs and banners, advocating greater sensibilities for the treatment of animals and a wholesale prohibition on the consumption of animal meat.
 
-![](https://alexchaocom.files.wordpress.com/2022/08/p1030151.jpg?w=1024)
+![](https://alexchao-blog-media.s3.amazonaws.com/2022/08/p1030151.jpg?w=1024)
 
 National Animal Rights March — August 6, 2022
 
