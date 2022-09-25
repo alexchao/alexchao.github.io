@@ -1,5 +1,5 @@
 ---
-title: 'Quarantine Likes &amp; Dislikes'
+title: 'Quarantine Likes & Dislikes'
 date: Tue, 17 Aug 2021 04:39:58 +0000
 draft: false
 tags: []
