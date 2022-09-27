@@ -1,6 +1,6 @@
 ---
 title: 'Music'
-date: Wed, 18 Mar 2015 06:29:48 +0000
+# date: Wed, 18 Mar 2015 06:29:48 +0000
 draft: false
 ---
 
