@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artistry on Alex Chao</title><link>https://alexchao.github.io/tags/artistry/</link><description>Recent content in artistry on Alex Chao</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Apr 2010 10:29:03 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/artistry/index.xml" rel="self" type="application/rss+xml"/><item><title>Sibelius on the Piano</title><link>https://alexchao.github.io/posts/sibelius-on-the-piano/</link><pubDate>Fri, 09 Apr 2010 10:29:03 +0000</pubDate><guid>https://alexchao.github.io/posts/sibelius-on-the-piano/</guid><description>The piano seems like such an integral part of every classical composer&amp;rsquo;s output, if not as a vehicle for masterworks, then as a platform for experimentation. And we may take it for granted sometimes, but it is truly the ultimate musical tool. Not only can it sound multiple, simultaneous pitches (something that is difficult or even impossible on other instruments), it also provides a very natural interface for its operator. Forget embouchures or slide or bowing positions; as a pianist, you sit before a neatly arranged array of keys, each corresponding to one of the eighty-eight pitches you care most about.</description></item><item><title>Rachmaninoff and Prokofiev</title><link>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</link><pubDate>Mon, 15 Mar 2010 09:36:45 +0000</pubDate><guid>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</guid><description>On the 18th of November, 1915, a recital was held in Moscow to commemorate the life of Alexander Scriabin, whose premature death in April of that year had rocked the world of Russian music. The program consisted entirely of his own works, and performing them at the piano was fellow Moscow Conservatory graduate, Sergei Rachmaninoff. Also present on that evening, as a member of the audience, was Sergei Prokofiev. He was 24 years old.</description></item><item><title>Politics, A Bad Thing for Art</title><link>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</link><pubDate>Fri, 22 Jan 2010 07:58:45 +0000</pubDate><guid>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</guid><description>I can&amp;rsquo;t speak from experience, but I bet the first half of the 20th century was a God awful time to be living. It was a time when war and economic crisis scathed the face of humanity. (Actually, we haven&amp;rsquo;t come very far in this respect.) It also was a time when so much about art and its dissemination was necessarily political, and that is a terrible thing. [caption id=&amp;ldquo;attachment_175&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A stamp honoring Shostakovich&amp;rdquo;][/caption]</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>artistry on Alex Chao</title>
+    <link>https://alexchao.github.io/tags/artistry/</link>
+    <description>Recent content in artistry on Alex Chao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Apr 2010 10:29:03 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/artistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sibelius on the Piano</title>
+      <link>https://alexchao.github.io/posts/sibelius-on-the-piano/</link>
+      <pubDate>Fri, 09 Apr 2010 10:29:03 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/sibelius-on-the-piano/</guid>
+      <description>The piano seems like such an integral part of every classical composer&amp;rsquo;s output, if not as a vehicle for masterworks, then as a platform for experimentation. And we may take it for granted sometimes, but it is truly the ultimate musical tool. Not only can it sound multiple, simultaneous pitches (something that is difficult or even impossible on other instruments), it also provides a very natural interface for its operator. Forget embouchures or slide or bowing positions; as a pianist, you sit before a neatly arranged array of keys, each corresponding to one of the eighty-eight pitches you care most about.</description>
+    </item>
+    
+    <item>
+      <title>Rachmaninoff and Prokofiev</title>
+      <link>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</link>
+      <pubDate>Mon, 15 Mar 2010 09:36:45 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</guid>
+      <description>On the 18th of November, 1915, a recital was held in Moscow to commemorate the life of Alexander Scriabin, whose premature death in April of that year had rocked the world of Russian music. The program consisted entirely of his own works, and performing them at the piano was fellow Moscow Conservatory graduate, Sergei Rachmaninoff. Also present on that evening, as a member of the audience, was Sergei Prokofiev. He was 24 years old.</description>
+    </item>
+    
+    <item>
+      <title>Politics, A Bad Thing for Art</title>
+      <link>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</link>
+      <pubDate>Fri, 22 Jan 2010 07:58:45 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</guid>
+      <description>I can&amp;rsquo;t speak from experience, but I bet the first half of the 20th century was a God awful time to be living. It was a time when war and economic crisis scathed the face of humanity. (Actually, we haven&amp;rsquo;t come very far in this respect.) It also was a time when so much about art and its dissemination was necessarily political, and that is a terrible thing. [caption id=&amp;ldquo;attachment_175&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A stamp honoring Shostakovich&amp;rdquo;] [/caption]</description>
+    </item>
+    
+  </channel>
+</rss>

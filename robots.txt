@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alexchao.github.io/sitemap.xml

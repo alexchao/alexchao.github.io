@@ -1,20 +1,433 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alex Chao</title><link>https://alexchao.github.io/posts/</link><description>Recent content in Posts on Alex Chao</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 15:34:32 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>On the Efficacy of Vegan Marches</title><link>https://alexchao.github.io/posts/on-the-efficacy-of-vegan-marches/</link><pubDate>Tue, 30 Aug 2022 15:34:32 +0000</pubDate><guid>https://alexchao.github.io/posts/on-the-efficacy-of-vegan-marches/</guid><description>I wonder if these marches manage to convince enough people to reduce their meat consumption to offset the ill will that they possibly sow.
-While wandering around in London&amp;rsquo;s Piccadilly Circus neighborhood, I stumbled upon what I later learned to be the National Animal Rights March. A sizable gathering of colorful and impassioned people, young and old, were marching down the street with signs and banners, advocating greater sensibilities for the treatment of animals and a wholesale prohibition on the consumption of animal meat.</description></item><item><title>When to Write Code Comments</title><link>https://alexchao.github.io/posts/when-to-write-code-comments/</link><pubDate>Tue, 17 Aug 2021 04:44:44 +0000</pubDate><guid>https://alexchao.github.io/posts/when-to-write-code-comments/</guid><description>Generally speaking, my advice on this topic would be:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Alex Chao</title>
+    <link>https://alexchao.github.io/posts/</link>
+    <description>Recent content in Posts on Alex Chao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Aug 2022 15:34:32 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Efficacy of Vegan Marches</title>
+      <link>https://alexchao.github.io/posts/on-the-efficacy-of-vegan-marches/</link>
+      <pubDate>Tue, 30 Aug 2022 15:34:32 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/on-the-efficacy-of-vegan-marches/</guid>
+      <description>I wonder if these marches manage to convince enough people to reduce their meat consumption to offset the ill will that they possibly sow.
+While wandering around in London&amp;rsquo;s Piccadilly Circus neighborhood, I stumbled upon what I later learned to be the National Animal Rights March. A sizable gathering of colorful and impassioned people, young and old, were marching down the street with signs and banners, advocating greater sensibilities for the treatment of animals and a wholesale prohibition on the consumption of animal meat.</description>
+    </item>
+    
+    <item>
+      <title>When to Write Code Comments</title>
+      <link>https://alexchao.github.io/posts/when-to-write-code-comments/</link>
+      <pubDate>Tue, 17 Aug 2021 04:44:44 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/when-to-write-code-comments/</guid>
+      <description>Generally speaking, my advice on this topic would be:
 Don&amp;rsquo;t write comments to describe what the code is doing.
 Code written in an imperative way can be read line by line to determine what processing is being performed. Re-stating the logic or steps of execution in a comment runs the risk of the comment falling out of sync with the code and becoming outdated.
-If a section of imperative code gets big, unwieldy, and hard to read, that&amp;rsquo;s probably a sign that a refactoring is needed and some abstractions need to be introduced.</description></item><item><title>Quarantine Likes &amp; Dislikes</title><link>https://alexchao.github.io/posts/quarantine-likes-dislikes/</link><pubDate>Tue, 17 Aug 2021 04:39:58 +0000</pubDate><guid>https://alexchao.github.io/posts/quarantine-likes-dislikes/</guid><description>In quarantine, I like:
+If a section of imperative code gets big, unwieldy, and hard to read, that&amp;rsquo;s probably a sign that a refactoring is needed and some abstractions need to be introduced.</description>
+    </item>
+    
+    <item>
+      <title>Quarantine Likes &amp; Dislikes</title>
+      <link>https://alexchao.github.io/posts/quarantine-likes-dislikes/</link>
+      <pubDate>Tue, 17 Aug 2021 04:39:58 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/quarantine-likes-dislikes/</guid>
+      <description>In quarantine, I like:
 Having an easy &amp;ldquo;out&amp;rdquo; from social obligations. Not having to bother buying or preparing food for myself. Alone time. Generally, not having to be anywhere at any particular time. I dislike:
-Any food I do get isn&amp;rsquo;t quite hot enough. No physical exercise. No dance parties (actual dance parties, like with a DJ and fabulous people). Not being able to hang out with my close friends.</description></item><item><title>My Advice to a New Grad</title><link>https://alexchao.github.io/posts/my-advice-to-a-new-grad/</link><pubDate>Fri, 30 Jul 2021 16:14:22 +0000</pubDate><guid>https://alexchao.github.io/posts/my-advice-to-a-new-grad/</guid><description>I was asked recently to provide advice to a new college grad. Here is the core of what I wrote.
-My advice to you is to write. Your writing doesn&amp;rsquo;t need to have a specific structure, and you don&amp;rsquo;t have to write for a specific audience, but getting your ideas down on paper is a service you can render to your future self. The important thing is to write with some regularity, even if not often.</description></item><item><title>On the Extinction of Animal Species</title><link>https://alexchao.github.io/posts/on-the-extinction-of-animal-species/</link><pubDate>Wed, 28 Mar 2018 09:12:00 +0000</pubDate><guid>https://alexchao.github.io/posts/on-the-extinction-of-animal-species/</guid><description>I’ve been reading Noah Yuval Harari’s Sapiens and have reached the chapter in the book where he tells of the profound impact that the Agricultural Revolution of our species had on ourselves and on the planet. In basic terms, the Agricultural Revolution was the period a little over 10,000 years ago when our species very gradually made the transition from subsisting as foragers and hunter-gatherers to settling down as farmers, living in settlements and villages with accompanying fields of domesticated crops and cattle.</description></item><item><title>Steven Pinker and Sam Harris at the Dolby Theatre</title><link>https://alexchao.github.io/posts/steven-pinker-and-sam-harris-at-the-dolby-theatre/</link><pubDate>Tue, 20 Mar 2018 04:17:59 +0000</pubDate><guid>https://alexchao.github.io/posts/steven-pinker-and-sam-harris-at-the-dolby-theatre/</guid><description>On March 14, I went to see the launch event of Sam Harris&amp;rsquo;s Waking Up Book Club, where he and Harvard psychologist Steven Pinker shared the stage at the Dolby Theatre to discuss Pinker&amp;rsquo;s new book Enlightenment Now and a range of philosophical topics. Among the things they touched on were science, humanism, politics, and artificial intelligence.
-About halfway into their conversation, Sam prompted Pinker to speak about the rise of the alt-right.</description></item><item><title>South Bay Horn Day 2017</title><link>https://alexchao.github.io/posts/south-bay-horn-day-2017/</link><pubDate>Tue, 28 Mar 2017 01:33:02 +0000</pubDate><guid>https://alexchao.github.io/posts/south-bay-horn-day-2017/</guid><description>This weekend, I attended South Bay Horn Day 2017 where I was reunited with my teacher and friend, Daniel Wood. As he announced at the end of the evening concert program, this happened to be his last year at the helm of the South Bay Horn Day event, with no one as of yet having stepped up to take the reins. The event has run for six consecutive years, and in that time has built some great relationships among the network of horn players in the Bay Area, while also offering an environment in which some really beautiful musical moments have been crafted.</description></item><item><title>Symphonies in My Head</title><link>https://alexchao.github.io/posts/symphonies-in-my-head/</link><pubDate>Thu, 02 Mar 2017 03:20:04 +0000</pubDate><guid>https://alexchao.github.io/posts/symphonies-in-my-head/</guid><description>A symphony really doesn&amp;rsquo;t deserve to be delivered to its audience through the copper filament of a pair of headphones. For all the labor that goes into a 40-minute work (both in composition and preparation on the part of the ensemble) that sees its finer details realized at the hands and lungs of sixty-some-odd musicians, it&amp;rsquo;s really a disservice to have the sound injected directly into one&amp;rsquo;s head cavity. It is not possible to really experience a &amp;ldquo;wall of sound&amp;rdquo; when the sound begins and ends as a whisper from a mere earbud.</description></item><item><title>Discovering Barbershop</title><link>https://alexchao.github.io/posts/discovering-barbershop/</link><pubDate>Tue, 17 Jan 2017 08:35:44 +0000</pubDate><guid>https://alexchao.github.io/posts/discovering-barbershop/</guid><description>Singing in a boys choir when I was younger and later singing with my high school chorus, there were few opportunities to perform a cappella music. A cappella frequently emerged in rehearsals as an ear-training exercise, but it wasn&amp;rsquo;t till I encountered what seemed to be an army of a cappella singers and groups in college that I got my first, real taste of the form. As a freshman, I auditioned for a bass opening in Cornell University&amp;rsquo;s Last Call, but after not getting the part, I more or less abandoned a cappella for other pursuits.</description></item><item><title>二胡</title><link>https://alexchao.github.io/posts/%E4%BA%8C%E8%83%A1/</link><pubDate>Thu, 24 Sep 2015 18:26:07 +0000</pubDate><guid>https://alexchao.github.io/posts/%E4%BA%8C%E8%83%A1/</guid><description>First order of business: I am living in Taiwan (since August 19th). I am taking an 二胡 (èrhú) class, and thus far have learned the basics of bowing. The proper grip and bow placement is tricky, and having never played a string instrument, the entire experience is foreign to me. In the first two lessons, none of my previous musical training has volunteered itself to be of any use, and the class is furthermore taught entirely in Chinese, so you know, there&amp;rsquo;s that.</description></item><item><title>IHS LA 2015 and Lessons from The Who</title><link>https://alexchao.github.io/posts/ihs-la-2015-and-lessons-from-the-who/</link><pubDate>Wed, 12 Aug 2015 22:36:52 +0000</pubDate><guid>https://alexchao.github.io/posts/ihs-la-2015-and-lessons-from-the-who/</guid><description>I expected my one day at the International Horn Symposium in Los Angeles to yield the excitement and energy usually afforded by conferences of a grand scale, but I instead walked away feeling ambivalent about my lot as a horn player. Oops. Still, I appreciated the closing words of horn player J. Gregory Miller recounting his experiences touring with English rock band The Who: Oh, also, I bought a fancy-pants mute from Ion Balu, who is quite the gentlemanly dude.</description></item><item><title>World Premiere</title><link>https://alexchao.github.io/posts/world-premiere/</link><pubDate>Mon, 22 Jun 2015 06:22:46 +0000</pubDate><guid>https://alexchao.github.io/posts/world-premiere/</guid><description>The aforementioned performance of my hymn took place this last Saturday in Mountain View at the Community School of Music and Arts. Below is the one, very awful photo I have of the venue (Tateuchi Hall) from my seat in the back while I waited to go on stage myself. [caption id=&amp;ldquo;attachment_805&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;]
-Tateuchi Hall, Community School of Music and Arts[/caption] The performance went well, I thought, given that we were only able to rehearse it once.</description></item><item><title>A Hymn for Horns</title><link>https://alexchao.github.io/posts/a-hymn-for-horns/</link><pubDate>Fri, 29 May 2015 20:03:36 +0000</pubDate><guid>https://alexchao.github.io/posts/a-hymn-for-horns/</guid><description>For an upcoming recital, I have been trying to figure out how to perform (or arrange to have performed) my new choral work&amp;hellip; without a chorus. Apart from my not having many connections in the choral community, a full chorus would probably outnumber the students and parents in attendance at the recital.
-As a fallback, I hastily mixed a synthesized rendition of the hymn for horn choir. I owe this exercise to GarageBand for having an impressive horn ensemble sample in its sound library, but I was happy enough with the results to take the time to &amp;ldquo;write out&amp;rdquo; (in Sibelius) the score for a 5-part horn choir.</description></item><item><title>Finding the Right Words</title><link>https://alexchao.github.io/posts/finding-the-right-words/</link><pubDate>Mon, 27 Apr 2015 07:44:53 +0000</pubDate><guid>https://alexchao.github.io/posts/finding-the-right-words/</guid><description>My recent predilection for liturgical music has given rise to what ought to be my first choral work. It&amp;rsquo;s not finished, but with it, I have tried to produce a hymn in the style of Romantic-era musical settings of Russian orthodox worship services. I have given myself the rather daunting task of trying to capture the same spiritual flavor of these works, while omitting any religious program (that is, for some definition of &amp;ldquo;spiritual&amp;rdquo;).</description></item><item><title>South Bay Horn Day 2015</title><link>https://alexchao.github.io/posts/south-bay-horn-day-2015/</link><pubDate>Wed, 08 Apr 2015 08:04:37 +0000</pubDate><guid>https://alexchao.github.io/posts/south-bay-horn-day-2015/</guid><description>This past Saturday, I attended South Bay Horn Day at Mountain View High School. The festival lasted from nine in the morning to nine at night, with a mix of workshops, horn choir rehearsals, and performances filling the day. It is held annually, and I only attended once before in 2013. [caption id=&amp;ldquo;attachment_781&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;] From my seat in the mass choir[/caption] It was a joy to meet so many other horn players from the area and to hear the excitement in their voices as they recounted their experiences with the instrument.</description></item><item><title>Voices on High</title><link>https://alexchao.github.io/posts/voices-on-high/</link><pubDate>Sun, 29 Mar 2015 17:59:35 +0000</pubDate><guid>https://alexchao.github.io/posts/voices-on-high/</guid><description>The latest flurry in the vicissitudes of my listening patterns summons the music of the church. I have created a playlist on Spotify called &amp;ldquo;Hymns&amp;rdquo; containing five ecclesiastical selections for unaccompanied chorus. [caption id=&amp;ldquo;attachment_777&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;] Cathedral Interior[/caption]
-Sergei Rachmaninoff – Liturgy of Saint John Chrysostom, Op. 31: XII. To Thee We Sing Sergei Rechmaninoff – All-Night Vigil, Op. 37: II. Praise the Lord, O my soul Eric Whitacre – Lux Aurumque Alexander Gretchaninov – Passion Week, Op.</description></item><item><title>Music</title><link>https://alexchao.github.io/posts/works/</link><pubDate>Wed, 18 Mar 2015 06:29:48 +0000</pubDate><guid>https://alexchao.github.io/posts/works/</guid><description>I compose music sometimes, and these are some of the works I have written or produced.
-Fantasy for Horn and Piano (2009) Rhapsody for Cello and Piano (2010) Untitled work for Flute and Piano (2012) Andante for Horn and Piano (2013) Incidental music to My Name is Richard Rozen (2014) Hymn for the Fallen (2015) Selections from Independence Day, for Horn Quartet (2016) Dirge (哀歌) (2018) Battle Music (戰鬥音樂) (2018) Paws in the Park (2020) March of the Midnight Urchins (2021) Dawn; Rail Heist (Orchestral Sketch) (2022)</description></item><item><title>Back on Track</title><link>https://alexchao.github.io/posts/back-on-track/</link><pubDate>Sat, 14 Mar 2015 16:10:03 +0000</pubDate><guid>https://alexchao.github.io/posts/back-on-track/</guid><description>About a year ago, I found myself listening to less and less classical music in my daily listening routine, replacing the late Romantic program on my playlist with a hodge podge of EDM tracks I managed to harvest from my Alesso radio station on Pandora. I&amp;rsquo;m not really sure how it happened, but I guess I was in the throes of a more&amp;hellip; hormonal phase of music. It was a concerning thing to be getting away from my classical predilections, but corrective measures weren&amp;rsquo;t something that could be forced.</description></item><item><title>Discovering Arnold Bax</title><link>https://alexchao.github.io/posts/discovering-arnold-bax/</link><pubDate>Sat, 28 Feb 2015 20:27:44 +0000</pubDate><guid>https://alexchao.github.io/posts/discovering-arnold-bax/</guid><description>On my flight to Thailand in December, the in-flight entertainment console at my seat was playing as background music a piece by English composer Arnold Bax. I hadn&amp;rsquo;t heard of Bax before, and as I sat there browsing the Action &amp;amp; Adventure category of movie selections, I stopped to take note of the piece&amp;rsquo;s harmonic language and use of orchestral color. It was exactly the kind of early 20th century writing that I&amp;rsquo;ve come to love and obsessively seek out.</description></item><item><title>Learning to Self-Publish</title><link>https://alexchao.github.io/posts/learning-to-self-publish/</link><pubDate>Sun, 15 Feb 2015 04:11:24 +0000</pubDate><guid>https://alexchao.github.io/posts/learning-to-self-publish/</guid><description>For not terribly compelling reasons, I am trying to get my score for My Name is Richard Rozen printed and published semi-professionally. When I wrote the music a year ago, I didn&amp;rsquo;t put much effort into typesetting the sheet music properly, because I would be the one performing the work, and honestly I had a lot of it memorized anyway. Now I&amp;rsquo;m paying the price in hours spent poring over the manuscript, tweaking margins and spacing, adjusting page breaks, and adding rehearsal letters.</description></item><item><title>My Summer Deadline</title><link>https://alexchao.github.io/posts/my-summer-deadline/</link><pubDate>Wed, 09 Jul 2014 05:58:15 +0000</pubDate><guid>https://alexchao.github.io/posts/my-summer-deadline/</guid><description>I have to write a piece for flute, horn, and percussion by early August. Effectively, by August 1. Let this be my written commitment to getting it done. I&amp;rsquo;ll get it done if it kills me. The creative process has me on my knees at the moment, but I know that as long as I hack and toil away at the notes, they will arrange themselves in some acceptable fashion on the page.</description></item><item><title>Recapitulation</title><link>https://alexchao.github.io/posts/recapitulation/</link><pubDate>Wed, 25 Jun 2014 05:53:23 +0000</pubDate><guid>https://alexchao.github.io/posts/recapitulation/</guid><description>It&amp;rsquo;s been over three years since I last opined here. It is troubling to think about how much time has passed, since I don&amp;rsquo;t think I&amp;rsquo;ve been particularly productive as a musician since then. In that time, I&amp;rsquo;ve written essentially just two pieces and who knows how many 8-bar phrases of vapid melody that will never make it farther than the inside pages of my sketchbook.
-The first piece was an andante for horn and piano, which may be my only mature work at this point, and the second exists more as a short suite: incidental music for a small play performed in Palo Alto.</description></item><item><title>Just Add Orchestra</title><link>https://alexchao.github.io/posts/just-add-orchestra-comments/</link><pubDate>Tue, 04 Jan 2011 05:40:15 +0000</pubDate><guid>https://alexchao.github.io/posts/just-add-orchestra-comments/</guid><description>pikaface - Feb 3, 2012
-Happy New Year! Yay to beautiful melodies (and descending cascades of Etudes!)</description></item><item><title>Just Add Orchestra</title><link>https://alexchao.github.io/posts/just-add-orchestra/</link><pubDate>Tue, 04 Jan 2011 05:40:15 +0000</pubDate><guid>https://alexchao.github.io/posts/just-add-orchestra/</guid><description>The No. 3 (C-minor) etude from Rachmaninoff&amp;rsquo;s first set of Études-Tableaux, Op. 33 was omitted from the original publication and released posthumously. I haven&amp;rsquo;t read anything that explains why, but it probably has something to do with one of its melodies making an appearance in his fourth piano concerto, written some fifteen years later. [caption id=&amp;ldquo;attachment_709&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;antman79@flickr&amp;rdquo;][/caption]
-I guess it&amp;rsquo;s only expected that, as a composer, you would eventually come to realize that a particular figure might shine a little brighter in a different setting.</description></item><item><title>There's Something About a Fifth Symphony</title><link>https://alexchao.github.io/posts/theres-something-about-fifth-symphonies/</link><pubDate>Sun, 12 Dec 2010 10:07:37 +0000</pubDate><guid>https://alexchao.github.io/posts/theres-something-about-fifth-symphonies/</guid><description>There&amp;rsquo;s something about a composer&amp;rsquo;s fifth. Beethoven, Prokofiev, Tchaikovsky, Shostakovich, Bruckner, Mahler, Sibelius. All of their fifth symphonies have become somewhat defining in their legacy as composers and are the pieces we&amp;rsquo;re told to approach first if not yet familiar with their music. They remain some of the most performed symphonies in the repertoire, and they all boast daunting, large-scale forms. The other day, I was happy to find that I&amp;rsquo;m not the only one who feels this way.</description></item><item><title>What Rachmaninoff Did for Russian Music</title><link>https://alexchao.github.io/posts/what-rachmaninoff-did-for-russian-music/</link><pubDate>Thu, 07 Oct 2010 05:17:18 +0000</pubDate><guid>https://alexchao.github.io/posts/what-rachmaninoff-did-for-russian-music/</guid><description>Sergei Rachmaninoff is remembered for the Paganini rhapsody, the two middle concertos, a prelude in C-sharp minor, and sometimes, a vocalise. The portrait painted by this &amp;ldquo;Best Of&amp;rdquo; compilation is of a man who procured steadfast melodies and unrelenting sentimentality till the day he died. Beyond these works too, you won&amp;rsquo;t find much that deviates from this pattern. Relatively speaking, he didn&amp;rsquo;t have eras or periods of stylistic evolution like, say, Stravinsky.</description></item><item><title>McNeely Borrowed from Walton</title><link>https://alexchao.github.io/posts/mcneely-borrowed-from-walton/</link><pubDate>Sat, 11 Sep 2010 04:24:18 +0000</pubDate><guid>https://alexchao.github.io/posts/mcneely-borrowed-from-walton/</guid><description>So as I said I would, I finally got around to evaluating the claim that Joel McNeely&amp;rsquo;s score to the novel and video game Shadows of the Empire &amp;ldquo;borrows&amp;rdquo; plainly and unashamedly from the ballet The Quest by 20th century British composer William Walton. [caption id=&amp;ldquo;attachment_620&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;William Walton, 1902-1983&amp;rdquo;][/caption]
-I&amp;rsquo;ll say right now that my findings lend a lot of credence to the forum post that inspired my investigation:</description></item><item><title>Rachmaninoff Had a Dog</title><link>https://alexchao.github.io/posts/rachmaninoff-had-a-dog/</link><pubDate>Sun, 29 Aug 2010 22:05:24 +0000</pubDate><guid>https://alexchao.github.io/posts/rachmaninoff-had-a-dog/</guid><description>As one who adores the larger canine breeds, I felt compelled to make good on my recent tweet by providing proper visual aid. To be fair, the photograph makes no effort to establish the owner relationship between the two subjects, but as I tweeted, it&amp;rsquo;s darn cute. &amp;hellip; though I wish people made a better effort to smile back in the day. [caption id=&amp;ldquo;attachment_592&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Rachmaninoff and a Dog (senar.</description></item><item><title>Ravel, An Inspiration to Joel McNeely</title><link>https://alexchao.github.io/posts/joel-mcneely-borrows-from-ravel/</link><pubDate>Sun, 08 Aug 2010 23:10:46 +0000</pubDate><guid>https://alexchao.github.io/posts/joel-mcneely-borrows-from-ravel/</guid><description>Not everyone is familiar with the installment of the Star Wars franchise titled Shadows of the Empire, but that&amp;rsquo;s mostly because it was a media event that never made it to the big screen. Nonetheless, the video game it spawned deserves some recognition among video games for its use of a fully orchestrated, studio recorded, original soundtrack composed by film and TV composer Joel McNeely. [caption id=&amp;ldquo;attachment_581&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Star Wars: Shadows of the Empire, cover art&amp;rdquo;][/caption]</description></item><item><title>The Magical Raised Fifth (or Flat Six)</title><link>https://alexchao.github.io/posts/the-magical-raised-fifth-or-flat-six/</link><pubDate>Thu, 15 Jul 2010 07:56:39 +0000</pubDate><guid>https://alexchao.github.io/posts/the-magical-raised-fifth-or-flat-six/</guid><description>There&amp;rsquo;s something special about the fifth scale degree of the tonic (major) key when raised a half-step. Granted, there&amp;rsquo;s something special about every non-key pitch in a tonal system, but what really captivates me about the flat six is its affective power in a Romantic context. Take a minute to listen to this excerpt: what do you feel when you hear the horn make its solo entrance above the sustained bassoon and strings?</description></item><item><title>Rachmaninoff's Fourth, the Original Version</title><link>https://alexchao.github.io/posts/rachmaninoffs-fourth-the-original-version/</link><pubDate>Fri, 11 Jun 2010 10:18:57 +0000</pubDate><guid>https://alexchao.github.io/posts/rachmaninoffs-fourth-the-original-version/</guid><description>The other day, I treated myself to the manuscript version of Rachmaninoff&amp;rsquo;s fourth piano concerto, which I had never heard before. This version, dated sometime in late August of 1926, is the original version of the piece that the composer premiered that year, before revising it twice to cement what we know now as his fourth concerto. The music in this first iteration reveals a strikingly unfamiliar side of the composer.</description></item><item><title>Britney Spears, Breaking the Mold</title><link>https://alexchao.github.io/posts/britney-spears-breaking-the-mold/</link><pubDate>Mon, 17 May 2010 05:23:35 +0000</pubDate><guid>https://alexchao.github.io/posts/britney-spears-breaking-the-mold/</guid><description>I&amp;rsquo;d say that I probably enjoy about half of the songs on the radio today. The other half either make me feel less intelligent (e.g. Replay by Iyaz) or fall short of my desired melodic quota (e.g. Imma Be by Black Eyed Peas; I hate this song).
-I don&amp;rsquo;t think I can easily describe what&amp;rsquo;s in my tastes, but in general, most of the songs I like capitalize on the ever-popular I-V-vi-IV or i-VI-III-VII chord progressions somewhere in the chorus or refrain (e.</description></item><item><title>The Horn Trill in Dvorak's 8th Symphony</title><link>https://alexchao.github.io/posts/the-horn-trill-in-dvoraks-8th-symphony/</link><pubDate>Wed, 05 May 2010 07:46:51 +0000</pubDate><guid>https://alexchao.github.io/posts/the-horn-trill-in-dvoraks-8th-symphony/</guid><description>Following in the steps of my last post, here&amp;rsquo;s another nifty little eight bar passage—this one from the finale of Dvorak&amp;rsquo;s Symphony No. 8 in G, featuring the principal and second horns. The movement opens with a modest trumpet fanfare introducing a series of pastoral variations in the strings, but then it&amp;rsquo;s off to the races at rehearsal letter C when Dvorak calls upon the entire ensemble to repeat the main theme.</description></item><item><title>A Happy Shostakovich</title><link>https://alexchao.github.io/posts/happy-shostakovich/</link><pubDate>Thu, 22 Apr 2010 09:38:36 +0000</pubDate><guid>https://alexchao.github.io/posts/happy-shostakovich/</guid><description>I&amp;rsquo;ve been tired and uninspired lately, so I will just take a moment to rattle off some thoughts about Shostakovich&amp;rsquo;s Piano Concerto No. 2 in F. Feel like I could give the Romantic era business a rest anyway.
-Our good friend Dmitri wrote a bunch of brooding, controversial symphonies, but in this concerto, there is a nice slice of his more cheerful side, as can be found too in the Festive Overture and ninth symphony.</description></item><item><title>Sibelius on the Piano</title><link>https://alexchao.github.io/posts/sibelius-on-the-piano/</link><pubDate>Fri, 09 Apr 2010 10:29:03 +0000</pubDate><guid>https://alexchao.github.io/posts/sibelius-on-the-piano/</guid><description>The piano seems like such an integral part of every classical composer&amp;rsquo;s output, if not as a vehicle for masterworks, then as a platform for experimentation. And we may take it for granted sometimes, but it is truly the ultimate musical tool. Not only can it sound multiple, simultaneous pitches (something that is difficult or even impossible on other instruments), it also provides a very natural interface for its operator. Forget embouchures or slide or bowing positions; as a pianist, you sit before a neatly arranged array of keys, each corresponding to one of the eighty-eight pitches you care most about.</description></item><item><title>Clarity in Rachmaninoff's Fourth Concerto</title><link>https://alexchao.github.io/posts/clarity-in-rachmaninoffs-fourth-concerto/</link><pubDate>Sun, 28 Mar 2010 19:45:48 +0000</pubDate><guid>https://alexchao.github.io/posts/clarity-in-rachmaninoffs-fourth-concerto/</guid><description>Rachmaninoff&amp;rsquo;s fourth piano concerto is one of these works that, together with the third symphony and the Symphonic Dances, represents the last stage of the composer&amp;rsquo;s musical output. This was his least prolific period of composition, and as well the period that is vastly less popular with concert-goers. The concerto itself has neither the pianistic showmanship of the third nor the thematic inspiration of the second, while its melodic material is woven into some very unfamiliar harmonic language.</description></item><item><title>Rachmaninoff and Prokofiev</title><link>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</link><pubDate>Mon, 15 Mar 2010 09:36:45 +0000</pubDate><guid>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</guid><description>On the 18th of November, 1915, a recital was held in Moscow to commemorate the life of Alexander Scriabin, whose premature death in April of that year had rocked the world of Russian music. The program consisted entirely of his own works, and performing them at the piano was fellow Moscow Conservatory graduate, Sergei Rachmaninoff. Also present on that evening, as a member of the audience, was Sergei Prokofiev. He was 24 years old.</description></item><item><title>San Francisco Symphony (March 5, 2010)</title><link>https://alexchao.github.io/posts/san-francisco-symphony-march-5-2010/</link><pubDate>Sun, 07 Mar 2010 01:18:33 +0000</pubDate><guid>https://alexchao.github.io/posts/san-francisco-symphony-march-5-2010/</guid><description>I bought my tickets for last night&amp;rsquo;s concert with the San Francisco Symphony last fall when I was under the spell of an almost child-like excitement over this season&amp;rsquo;s programming of popular masterworks. In particular, the 2009-2010 season has seen the symphonies of Tchaikovsky, Mahler, and Rachmaninoff, as well as a few other big names from the middle Romantic era. [caption id=&amp;ldquo;attachment_292&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Christian Tetzlaff (alexandra-vosding.de)&amp;rdquo;][/caption] The piece from last night&amp;rsquo;s concert that motivated my purchase was Tchaikovsky&amp;rsquo;s violin concerto, performed by Christian Tetzlaff—a violinist of modest stature with a powerful sound.</description></item><item><title>Celibidache's Tchaikovsky</title><link>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</link><pubDate>Thu, 25 Feb 2010 11:26:29 +0000</pubDate><guid>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</guid><description>Tchaikovsky&amp;rsquo;s last three symphonies are probably the most performed and recorded symphonies in existence. Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being over a hundred of them, but the trinity that is Tchaikovsky&amp;rsquo;s four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from.</description></item><item><title>Dear Ms. Wang</title><link>https://alexchao.github.io/posts/dear-ms-wang/</link><pubDate>Thu, 11 Feb 2010 05:58:50 +0000</pubDate><guid>https://alexchao.github.io/posts/dear-ms-wang/</guid><description>Out of a mostly irrational desire to witness two musical greats synergized in one absolutely fantastic display of awesomeness, I&amp;rsquo;d like to see Yuja Wang perform Rachmaninoff&amp;rsquo;s sonata. The second one of course. The first one is great too, but let&amp;rsquo;s face it, for a girl who professes a love for those lyrical, big, romantic pieces, Mlle. Wang can&amp;rsquo;t go wrong with Op. 36. And with Chopin&amp;rsquo;s second already under her belt, I&amp;rsquo;d only find it in the natural order of things.</description></item><item><title>James Horner and the Lydian Mode</title><link>https://alexchao.github.io/posts/james-horner-and-the-lydian-mode/</link><pubDate>Thu, 28 Jan 2010 07:44:56 +0000</pubDate><guid>https://alexchao.github.io/posts/james-horner-and-the-lydian-mode/</guid><description>It&amp;rsquo;s a curious thing how an artist who has reached a certain level of creative maturity becomes somewhat of a prisoner to idiosyncrasy. Many composers, to take music as an example, have some kind of musical trademark. Some exhibit their signature flourishes subtly or almost imperceptibly, while others do us the convenience of posting a big, blinking, neon sign in the sky. At the moment, I&amp;rsquo;m starting to think that there&amp;rsquo;s a lot in the music of film composer James Horner that is big, blinking, and neon.</description></item><item><title>Politics, A Bad Thing for Art</title><link>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</link><pubDate>Fri, 22 Jan 2010 07:58:45 +0000</pubDate><guid>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</guid><description>I can&amp;rsquo;t speak from experience, but I bet the first half of the 20th century was a God awful time to be living. It was a time when war and economic crisis scathed the face of humanity. (Actually, we haven&amp;rsquo;t come very far in this respect.) It also was a time when so much about art and its dissemination was necessarily political, and that is a terrible thing. [caption id=&amp;ldquo;attachment_175&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A stamp honoring Shostakovich&amp;rdquo;][/caption]</description></item><item><title>Russian Steppes</title><link>https://alexchao.github.io/posts/russian-steppes/</link><pubDate>Fri, 15 Jan 2010 05:28:10 +0000</pubDate><guid>https://alexchao.github.io/posts/russian-steppes/</guid><description>From a distance, Rachmaninoff and Tchaikovsky look much the same. Fact is, one name rarely ever surfaces without some mention of the other, and if you like music by one, chances are you also enjoy music by the other (convenient given the sheer number of classical albums that pair their works together). [caption id=&amp;ldquo;attachment_151&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A Young Rachmaninoff (senar.ru)&amp;rdquo;][/caption]
-The opinion inherent in their seeming inseparability is that their works demonstrate an uncanny gift for melody and emotional expression.</description></item><item><title>The Horn as Orchestral Descant</title><link>https://alexchao.github.io/posts/the-horn-as-orchestral-descant/</link><pubDate>Sat, 26 Dec 2009 07:13:24 +0000</pubDate><guid>https://alexchao.github.io/posts/the-horn-as-orchestral-descant/</guid><description>The term descant hearkens back to my youth as a choir boy, when my musical experiences were dominated by music of the church. We sang a number of hymns and psalms, and our director would often select a small group of us to sing a descant — known to me then only as an aria-like soprano part above the rest of the choir. It forced us to exercise the upper range of our voices and was very unforgiving of even the slightest deviations in pitch.</description></item><item><title>The Third Concerto, 100 Years Strong</title><link>https://alexchao.github.io/posts/the-third-concerto/</link><pubDate>Tue, 01 Dec 2009 04:51:37 +0000</pubDate><guid>https://alexchao.github.io/posts/the-third-concerto/</guid><description>This last Saturday marked the 100th anniversary of Rachmaninoff&amp;rsquo;s third piano concerto. I don&amp;rsquo;t know if there were any performances anywhere to commemorate the piece, but then again, we don&amp;rsquo;t often commemorate pieces. Usually, it&amp;rsquo;s the life of the composer we celebrate. Still, I like to think about the significance of a musical work coming into existence, to fill an ethereal space where once there existed a musical void. Before November 28th, 1909, no one knew what the third concerto by Rachmaninoff sounded like, save the composer himself.</description></item></channel></rss>
+Any food I do get isn&amp;rsquo;t quite hot enough. No physical exercise. No dance parties (actual dance parties, like with a DJ and fabulous people). Not being able to hang out with my close friends. </description>
+    </item>
+    
+    <item>
+      <title>My Advice to a New Grad</title>
+      <link>https://alexchao.github.io/posts/my-advice-to-a-new-grad/</link>
+      <pubDate>Fri, 30 Jul 2021 16:14:22 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/my-advice-to-a-new-grad/</guid>
+      <description>I was asked recently to provide advice to a new college grad. Here is the core of what I wrote.
+My advice to you is to write. Your writing doesn&amp;rsquo;t need to have a specific structure, and you don&amp;rsquo;t have to write for a specific audience, but getting your ideas down on paper is a service you can render to your future self. The important thing is to write with some regularity, even if not often.</description>
+    </item>
+    
+    <item>
+      <title>On the Extinction of Animal Species</title>
+      <link>https://alexchao.github.io/posts/on-the-extinction-of-animal-species/</link>
+      <pubDate>Wed, 28 Mar 2018 09:12:00 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/on-the-extinction-of-animal-species/</guid>
+      <description>I’ve been reading Noah Yuval Harari’s Sapiens and have reached the chapter in the book where he tells of the profound impact that the Agricultural Revolution of our species had on ourselves and on the planet. In basic terms, the Agricultural Revolution was the period a little over 10,000 years ago when our species very gradually made the transition from subsisting as foragers and hunter-gatherers to settling down as farmers, living in settlements and villages with accompanying fields of domesticated crops and cattle.</description>
+    </item>
+    
+    <item>
+      <title>Steven Pinker and Sam Harris at the Dolby Theatre</title>
+      <link>https://alexchao.github.io/posts/steven-pinker-and-sam-harris-at-the-dolby-theatre/</link>
+      <pubDate>Tue, 20 Mar 2018 04:17:59 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/steven-pinker-and-sam-harris-at-the-dolby-theatre/</guid>
+      <description>On March 14, I went to see the launch event of Sam Harris&amp;rsquo;s Waking Up Book Club, where he and Harvard psychologist Steven Pinker shared the stage at the Dolby Theatre to discuss Pinker&amp;rsquo;s new book Enlightenment Now and a range of philosophical topics. Among the things they touched on were science, humanism, politics, and artificial intelligence.
+About halfway into their conversation, Sam prompted Pinker to speak about the rise of the alt-right.</description>
+    </item>
+    
+    <item>
+      <title>South Bay Horn Day 2017</title>
+      <link>https://alexchao.github.io/posts/south-bay-horn-day-2017/</link>
+      <pubDate>Tue, 28 Mar 2017 01:33:02 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/south-bay-horn-day-2017/</guid>
+      <description>This weekend, I attended South Bay Horn Day 2017 where I was reunited with my teacher and friend, Daniel Wood. As he announced at the end of the evening concert program, this happened to be his last year at the helm of the South Bay Horn Day event, with no one as of yet having stepped up to take the reins. The event has run for six consecutive years, and in that time has built some great relationships among the network of horn players in the Bay Area, while also offering an environment in which some really beautiful musical moments have been crafted.</description>
+    </item>
+    
+    <item>
+      <title>Symphonies in My Head</title>
+      <link>https://alexchao.github.io/posts/symphonies-in-my-head/</link>
+      <pubDate>Thu, 02 Mar 2017 03:20:04 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/symphonies-in-my-head/</guid>
+      <description>A symphony really doesn&amp;rsquo;t deserve to be delivered to its audience through the copper filament of a pair of headphones. For all the labor that goes into a 40-minute work (both in composition and preparation on the part of the ensemble) that sees its finer details realized at the hands and lungs of sixty-some-odd musicians, it&amp;rsquo;s really a disservice to have the sound injected directly into one&amp;rsquo;s head cavity. It is not possible to really experience a &amp;ldquo;wall of sound&amp;rdquo; when the sound begins and ends as a whisper from a mere earbud.</description>
+    </item>
+    
+    <item>
+      <title>Discovering Barbershop</title>
+      <link>https://alexchao.github.io/posts/discovering-barbershop/</link>
+      <pubDate>Tue, 17 Jan 2017 08:35:44 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/discovering-barbershop/</guid>
+      <description>Singing in a boys choir when I was younger and later singing with my high school chorus, there were few opportunities to perform a cappella music. A cappella frequently emerged in rehearsals as an ear-training exercise, but it wasn&amp;rsquo;t till I encountered what seemed to be an army of a cappella singers and groups in college that I got my first, real taste of the form. As a freshman, I auditioned for a bass opening in Cornell University&amp;rsquo;s Last Call, but after not getting the part, I more or less abandoned a cappella for other pursuits.</description>
+    </item>
+    
+    <item>
+      <title>二胡</title>
+      <link>https://alexchao.github.io/posts/%E4%BA%8C%E8%83%A1/</link>
+      <pubDate>Thu, 24 Sep 2015 18:26:07 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/%E4%BA%8C%E8%83%A1/</guid>
+      <description>First order of business: I am living in Taiwan (since August 19th). I am taking an 二胡 (èrhú) class, and thus far have learned the basics of bowing. The proper grip and bow placement is tricky, and having never played a string instrument, the entire experience is foreign to me. In the first two lessons, none of my previous musical training has volunteered itself to be of any use, and the class is furthermore taught entirely in Chinese, so you know, there&amp;rsquo;s that.</description>
+    </item>
+    
+    <item>
+      <title>IHS LA 2015 and Lessons from The Who</title>
+      <link>https://alexchao.github.io/posts/ihs-la-2015-and-lessons-from-the-who/</link>
+      <pubDate>Wed, 12 Aug 2015 22:36:52 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/ihs-la-2015-and-lessons-from-the-who/</guid>
+      <description>I expected my one day at the International Horn Symposium in Los Angeles to yield the excitement and energy usually afforded by conferences of a grand scale, but I instead walked away feeling ambivalent about my lot as a horn player. Oops. Still, I appreciated the closing words of horn player J. Gregory Miller recounting his experiences touring with English rock band The Who: Oh, also, I bought a fancy-pants mute from Ion Balu, who is quite the gentlemanly dude.</description>
+    </item>
+    
+    <item>
+      <title>World Premiere</title>
+      <link>https://alexchao.github.io/posts/world-premiere/</link>
+      <pubDate>Mon, 22 Jun 2015 06:22:46 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/world-premiere/</guid>
+      <description>The aforementioned performance of my hymn took place this last Saturday in Mountain View at the Community School of Music and Arts. Below is the one, very awful photo I have of the venue (Tateuchi Hall) from my seat in the back while I waited to go on stage myself. [caption id=&amp;ldquo;attachment_805&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;] Tateuchi Hall, Community School of Music and Arts[/caption] The performance went well, I thought, given that we were only able to rehearse it once.</description>
+    </item>
+    
+    <item>
+      <title>A Hymn for Horns</title>
+      <link>https://alexchao.github.io/posts/a-hymn-for-horns/</link>
+      <pubDate>Fri, 29 May 2015 20:03:36 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/a-hymn-for-horns/</guid>
+      <description>For an upcoming recital, I have been trying to figure out how to perform (or arrange to have performed) my new choral work&amp;hellip; without a chorus. Apart from my not having many connections in the choral community, a full chorus would probably outnumber the students and parents in attendance at the recital.
+As a fallback, I hastily mixed a synthesized rendition of the hymn for horn choir. I owe this exercise to GarageBand for having an impressive horn ensemble sample in its sound library, but I was happy enough with the results to take the time to &amp;ldquo;write out&amp;rdquo; (in Sibelius) the score for a 5-part horn choir.</description>
+    </item>
+    
+    <item>
+      <title>Finding the Right Words</title>
+      <link>https://alexchao.github.io/posts/finding-the-right-words/</link>
+      <pubDate>Mon, 27 Apr 2015 07:44:53 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/finding-the-right-words/</guid>
+      <description>My recent predilection for liturgical music has given rise to what ought to be my first choral work. It&amp;rsquo;s not finished, but with it, I have tried to produce a hymn in the style of Romantic-era musical settings of Russian orthodox worship services. I have given myself the rather daunting task of trying to capture the same spiritual flavor of these works, while omitting any religious program (that is, for some definition of &amp;ldquo;spiritual&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>South Bay Horn Day 2015</title>
+      <link>https://alexchao.github.io/posts/south-bay-horn-day-2015/</link>
+      <pubDate>Wed, 08 Apr 2015 08:04:37 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/south-bay-horn-day-2015/</guid>
+      <description>This past Saturday, I attended South Bay Horn Day at Mountain View High School. The festival lasted from nine in the morning to nine at night, with a mix of workshops, horn choir rehearsals, and performances filling the day. It is held annually, and I only attended once before in 2013. [caption id=&amp;ldquo;attachment_781&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;] From my seat in the mass choir[/caption] It was a joy to meet so many other horn players from the area and to hear the excitement in their voices as they recounted their experiences with the instrument.</description>
+    </item>
+    
+    <item>
+      <title>Voices on High</title>
+      <link>https://alexchao.github.io/posts/voices-on-high/</link>
+      <pubDate>Sun, 29 Mar 2015 17:59:35 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/voices-on-high/</guid>
+      <description>The latest flurry in the vicissitudes of my listening patterns summons the music of the church. I have created a playlist on Spotify called &amp;ldquo;Hymns&amp;rdquo; containing five ecclesiastical selections for unaccompanied chorus. [caption id=&amp;ldquo;attachment_777&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;584&amp;rdquo;] Cathedral Interior[/caption]
+Sergei Rachmaninoff – Liturgy of Saint John Chrysostom, Op. 31: XII. To Thee We Sing Sergei Rechmaninoff – All-Night Vigil, Op. 37: II. Praise the Lord, O my soul Eric Whitacre – Lux Aurumque Alexander Gretchaninov – Passion Week, Op.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://alexchao.github.io/posts/works/</link>
+      <pubDate>Wed, 18 Mar 2015 06:29:48 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/works/</guid>
+      <description>I compose music sometimes, and these are some of the works I have written or produced.
+Fantasy for Horn and Piano (2009) Rhapsody for Cello and Piano (2010) Untitled work for Flute and Piano (2012) Andante for Horn and Piano (2013) Incidental music to My Name is Richard Rozen (2014) Hymn for the Fallen (2015) Selections from Independence Day, for Horn Quartet (2016) Dirge (哀歌) (2018) Battle Music (戰鬥音樂) (2018) Paws in the Park (2020) March of the Midnight Urchins (2021) Dawn; Rail Heist (Orchestral Sketch) (2022) </description>
+    </item>
+    
+    <item>
+      <title>Back on Track</title>
+      <link>https://alexchao.github.io/posts/back-on-track/</link>
+      <pubDate>Sat, 14 Mar 2015 16:10:03 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/back-on-track/</guid>
+      <description>About a year ago, I found myself listening to less and less classical music in my daily listening routine, replacing the late Romantic program on my playlist with a hodge podge of EDM tracks I managed to harvest from my Alesso radio station on Pandora. I&amp;rsquo;m not really sure how it happened, but I guess I was in the throes of a more&amp;hellip; hormonal phase of music. It was a concerning thing to be getting away from my classical predilections, but corrective measures weren&amp;rsquo;t something that could be forced.</description>
+    </item>
+    
+    <item>
+      <title>Discovering Arnold Bax</title>
+      <link>https://alexchao.github.io/posts/discovering-arnold-bax/</link>
+      <pubDate>Sat, 28 Feb 2015 20:27:44 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/discovering-arnold-bax/</guid>
+      <description>On my flight to Thailand in December, the in-flight entertainment console at my seat was playing as background music a piece by English composer Arnold Bax. I hadn&amp;rsquo;t heard of Bax before, and as I sat there browsing the Action &amp;amp; Adventure category of movie selections, I stopped to take note of the piece&amp;rsquo;s harmonic language and use of orchestral color. It was exactly the kind of early 20th century writing that I&amp;rsquo;ve come to love and obsessively seek out.</description>
+    </item>
+    
+    <item>
+      <title>Learning to Self-Publish</title>
+      <link>https://alexchao.github.io/posts/learning-to-self-publish/</link>
+      <pubDate>Sun, 15 Feb 2015 04:11:24 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/learning-to-self-publish/</guid>
+      <description>For not terribly compelling reasons, I am trying to get my score for My Name is Richard Rozen printed and published semi-professionally. When I wrote the music a year ago, I didn&amp;rsquo;t put much effort into typesetting the sheet music properly, because I would be the one performing the work, and honestly I had a lot of it memorized anyway. Now I&amp;rsquo;m paying the price in hours spent poring over the manuscript, tweaking margins and spacing, adjusting page breaks, and adding rehearsal letters.</description>
+    </item>
+    
+    <item>
+      <title>My Summer Deadline</title>
+      <link>https://alexchao.github.io/posts/my-summer-deadline/</link>
+      <pubDate>Wed, 09 Jul 2014 05:58:15 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/my-summer-deadline/</guid>
+      <description>I have to write a piece for flute, horn, and percussion by early August. Effectively, by August 1. Let this be my written commitment to getting it done. I&amp;rsquo;ll get it done if it kills me. The creative process has me on my knees at the moment, but I know that as long as I hack and toil away at the notes, they will arrange themselves in some acceptable fashion on the page.</description>
+    </item>
+    
+    <item>
+      <title>Recapitulation</title>
+      <link>https://alexchao.github.io/posts/recapitulation/</link>
+      <pubDate>Wed, 25 Jun 2014 05:53:23 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/recapitulation/</guid>
+      <description>It&amp;rsquo;s been over three years since I last opined here. It is troubling to think about how much time has passed, since I don&amp;rsquo;t think I&amp;rsquo;ve been particularly productive as a musician since then. In that time, I&amp;rsquo;ve written essentially just two pieces and who knows how many 8-bar phrases of vapid melody that will never make it farther than the inside pages of my sketchbook.
+The first piece was an andante for horn and piano, which may be my only mature work at this point, and the second exists more as a short suite: incidental music for a small play performed in Palo Alto.</description>
+    </item>
+    
+    <item>
+      <title>Just Add Orchestra</title>
+      <link>https://alexchao.github.io/posts/just-add-orchestra-comments/</link>
+      <pubDate>Tue, 04 Jan 2011 05:40:15 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/just-add-orchestra-comments/</guid>
+      <description>pikaface - Feb 3, 2012
+Happy New Year! Yay to beautiful melodies (and descending cascades of Etudes!)</description>
+    </item>
+    
+    <item>
+      <title>Just Add Orchestra</title>
+      <link>https://alexchao.github.io/posts/just-add-orchestra/</link>
+      <pubDate>Tue, 04 Jan 2011 05:40:15 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/just-add-orchestra/</guid>
+      <description>The No. 3 (C-minor) etude from Rachmaninoff&amp;rsquo;s first set of Études-Tableaux, Op. 33 was omitted from the original publication and released posthumously. I haven&amp;rsquo;t read anything that explains why, but it probably has something to do with one of its melodies making an appearance in his fourth piano concerto, written some fifteen years later. [caption id=&amp;ldquo;attachment_709&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;antman79@flickr&amp;rdquo;] [/caption]
+I guess it&amp;rsquo;s only expected that, as a composer, you would eventually come to realize that a particular figure might shine a little brighter in a different setting.</description>
+    </item>
+    
+    <item>
+      <title>There&#39;s Something About a Fifth Symphony</title>
+      <link>https://alexchao.github.io/posts/theres-something-about-fifth-symphonies/</link>
+      <pubDate>Sun, 12 Dec 2010 10:07:37 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/theres-something-about-fifth-symphonies/</guid>
+      <description>There&amp;rsquo;s something about a composer&amp;rsquo;s fifth. Beethoven, Prokofiev, Tchaikovsky, Shostakovich, Bruckner, Mahler, Sibelius. All of their fifth symphonies have become somewhat defining in their legacy as composers and are the pieces we&amp;rsquo;re told to approach first if not yet familiar with their music. They remain some of the most performed symphonies in the repertoire, and they all boast daunting, large-scale forms. The other day, I was happy to find that I&amp;rsquo;m not the only one who feels this way.</description>
+    </item>
+    
+    <item>
+      <title>What Rachmaninoff Did for Russian Music</title>
+      <link>https://alexchao.github.io/posts/what-rachmaninoff-did-for-russian-music/</link>
+      <pubDate>Thu, 07 Oct 2010 05:17:18 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/what-rachmaninoff-did-for-russian-music/</guid>
+      <description>Sergei Rachmaninoff is remembered for the Paganini rhapsody, the two middle concertos, a prelude in C-sharp minor, and sometimes, a vocalise. The portrait painted by this &amp;ldquo;Best Of&amp;rdquo; compilation is of a man who procured steadfast melodies and unrelenting sentimentality till the day he died. Beyond these works too, you won&amp;rsquo;t find much that deviates from this pattern. Relatively speaking, he didn&amp;rsquo;t have eras or periods of stylistic evolution like, say, Stravinsky.</description>
+    </item>
+    
+    <item>
+      <title>McNeely Borrowed from Walton</title>
+      <link>https://alexchao.github.io/posts/mcneely-borrowed-from-walton/</link>
+      <pubDate>Sat, 11 Sep 2010 04:24:18 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/mcneely-borrowed-from-walton/</guid>
+      <description>So as I said I would, I finally got around to evaluating the claim that Joel McNeely&amp;rsquo;s score to the novel and video game Shadows of the Empire &amp;ldquo;borrows&amp;rdquo; plainly and unashamedly from the ballet The Quest by 20th century British composer William Walton. [caption id=&amp;ldquo;attachment_620&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;William Walton, 1902-1983&amp;rdquo;] [/caption]
+I&amp;rsquo;ll say right now that my findings lend a lot of credence to the forum post that inspired my investigation:</description>
+    </item>
+    
+    <item>
+      <title>Rachmaninoff Had a Dog</title>
+      <link>https://alexchao.github.io/posts/rachmaninoff-had-a-dog/</link>
+      <pubDate>Sun, 29 Aug 2010 22:05:24 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/rachmaninoff-had-a-dog/</guid>
+      <description>As one who adores the larger canine breeds, I felt compelled to make good on my recent tweet by providing proper visual aid. To be fair, the photograph makes no effort to establish the owner relationship between the two subjects, but as I tweeted, it&amp;rsquo;s darn cute. &amp;hellip; though I wish people made a better effort to smile back in the day. [caption id=&amp;ldquo;attachment_592&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Rachmaninoff and a Dog (senar.</description>
+    </item>
+    
+    <item>
+      <title>Ravel, An Inspiration to Joel McNeely</title>
+      <link>https://alexchao.github.io/posts/joel-mcneely-borrows-from-ravel/</link>
+      <pubDate>Sun, 08 Aug 2010 23:10:46 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/joel-mcneely-borrows-from-ravel/</guid>
+      <description>Not everyone is familiar with the installment of the Star Wars franchise titled Shadows of the Empire, but that&amp;rsquo;s mostly because it was a media event that never made it to the big screen. Nonetheless, the video game it spawned deserves some recognition among video games for its use of a fully orchestrated, studio recorded, original soundtrack composed by film and TV composer Joel McNeely. [caption id=&amp;ldquo;attachment_581&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Star Wars: Shadows of the Empire, cover art&amp;rdquo;] [/caption]</description>
+    </item>
+    
+    <item>
+      <title>The Magical Raised Fifth (or Flat Six)</title>
+      <link>https://alexchao.github.io/posts/the-magical-raised-fifth-or-flat-six/</link>
+      <pubDate>Thu, 15 Jul 2010 07:56:39 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/the-magical-raised-fifth-or-flat-six/</guid>
+      <description>There&amp;rsquo;s something special about the fifth scale degree of the tonic (major) key when raised a half-step. Granted, there&amp;rsquo;s something special about every non-key pitch in a tonal system, but what really captivates me about the flat six is its affective power in a Romantic context. Take a minute to listen to this excerpt: what do you feel when you hear the horn make its solo entrance above the sustained bassoon and strings?</description>
+    </item>
+    
+    <item>
+      <title>Rachmaninoff&#39;s Fourth, the Original Version</title>
+      <link>https://alexchao.github.io/posts/rachmaninoffs-fourth-the-original-version/</link>
+      <pubDate>Fri, 11 Jun 2010 10:18:57 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/rachmaninoffs-fourth-the-original-version/</guid>
+      <description>The other day, I treated myself to the manuscript version of Rachmaninoff&amp;rsquo;s fourth piano concerto, which I had never heard before. This version, dated sometime in late August of 1926, is the original version of the piece that the composer premiered that year, before revising it twice to cement what we know now as his fourth concerto. The music in this first iteration reveals a strikingly unfamiliar side of the composer.</description>
+    </item>
+    
+    <item>
+      <title>Britney Spears, Breaking the Mold</title>
+      <link>https://alexchao.github.io/posts/britney-spears-breaking-the-mold/</link>
+      <pubDate>Mon, 17 May 2010 05:23:35 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/britney-spears-breaking-the-mold/</guid>
+      <description>I&amp;rsquo;d say that I probably enjoy about half of the songs on the radio today. The other half either make me feel less intelligent (e.g. Replay by Iyaz) or fall short of my desired melodic quota (e.g. Imma Be by Black Eyed Peas; I hate this song).
+I don&amp;rsquo;t think I can easily describe what&amp;rsquo;s in my tastes, but in general, most of the songs I like capitalize on the ever-popular I-V-vi-IV or i-VI-III-VII chord progressions somewhere in the chorus or refrain (e.</description>
+    </item>
+    
+    <item>
+      <title>The Horn Trill in Dvorak&#39;s 8th Symphony</title>
+      <link>https://alexchao.github.io/posts/the-horn-trill-in-dvoraks-8th-symphony/</link>
+      <pubDate>Wed, 05 May 2010 07:46:51 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/the-horn-trill-in-dvoraks-8th-symphony/</guid>
+      <description>Following in the steps of my last post, here&amp;rsquo;s another nifty little eight bar passage—this one from the finale of Dvorak&amp;rsquo;s Symphony No. 8 in G, featuring the principal and second horns. The movement opens with a modest trumpet fanfare introducing a series of pastoral variations in the strings, but then it&amp;rsquo;s off to the races at rehearsal letter C when Dvorak calls upon the entire ensemble to repeat the main theme.</description>
+    </item>
+    
+    <item>
+      <title>A Happy Shostakovich</title>
+      <link>https://alexchao.github.io/posts/happy-shostakovich/</link>
+      <pubDate>Thu, 22 Apr 2010 09:38:36 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/happy-shostakovich/</guid>
+      <description>I&amp;rsquo;ve been tired and uninspired lately, so I will just take a moment to rattle off some thoughts about Shostakovich&amp;rsquo;s Piano Concerto No. 2 in F. Feel like I could give the Romantic era business a rest anyway.
+Our good friend Dmitri wrote a bunch of brooding, controversial symphonies, but in this concerto, there is a nice slice of his more cheerful side, as can be found too in the Festive Overture and ninth symphony.</description>
+    </item>
+    
+    <item>
+      <title>Sibelius on the Piano</title>
+      <link>https://alexchao.github.io/posts/sibelius-on-the-piano/</link>
+      <pubDate>Fri, 09 Apr 2010 10:29:03 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/sibelius-on-the-piano/</guid>
+      <description>The piano seems like such an integral part of every classical composer&amp;rsquo;s output, if not as a vehicle for masterworks, then as a platform for experimentation. And we may take it for granted sometimes, but it is truly the ultimate musical tool. Not only can it sound multiple, simultaneous pitches (something that is difficult or even impossible on other instruments), it also provides a very natural interface for its operator. Forget embouchures or slide or bowing positions; as a pianist, you sit before a neatly arranged array of keys, each corresponding to one of the eighty-eight pitches you care most about.</description>
+    </item>
+    
+    <item>
+      <title>Clarity in Rachmaninoff&#39;s Fourth Concerto</title>
+      <link>https://alexchao.github.io/posts/clarity-in-rachmaninoffs-fourth-concerto/</link>
+      <pubDate>Sun, 28 Mar 2010 19:45:48 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/clarity-in-rachmaninoffs-fourth-concerto/</guid>
+      <description>Rachmaninoff&amp;rsquo;s fourth piano concerto is one of these works that, together with the third symphony and the Symphonic Dances, represents the last stage of the composer&amp;rsquo;s musical output. This was his least prolific period of composition, and as well the period that is vastly less popular with concert-goers. The concerto itself has neither the pianistic showmanship of the third nor the thematic inspiration of the second, while its melodic material is woven into some very unfamiliar harmonic language.</description>
+    </item>
+    
+    <item>
+      <title>Rachmaninoff and Prokofiev</title>
+      <link>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</link>
+      <pubDate>Mon, 15 Mar 2010 09:36:45 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/rachmaninoff-and-prokofiev/</guid>
+      <description>On the 18th of November, 1915, a recital was held in Moscow to commemorate the life of Alexander Scriabin, whose premature death in April of that year had rocked the world of Russian music. The program consisted entirely of his own works, and performing them at the piano was fellow Moscow Conservatory graduate, Sergei Rachmaninoff. Also present on that evening, as a member of the audience, was Sergei Prokofiev. He was 24 years old.</description>
+    </item>
+    
+    <item>
+      <title>San Francisco Symphony (March 5, 2010)</title>
+      <link>https://alexchao.github.io/posts/san-francisco-symphony-march-5-2010/</link>
+      <pubDate>Sun, 07 Mar 2010 01:18:33 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/san-francisco-symphony-march-5-2010/</guid>
+      <description>I bought my tickets for last night&amp;rsquo;s concert with the San Francisco Symphony last fall when I was under the spell of an almost child-like excitement over this season&amp;rsquo;s programming of popular masterworks. In particular, the 2009-2010 season has seen the symphonies of Tchaikovsky, Mahler, and Rachmaninoff, as well as a few other big names from the middle Romantic era. [caption id=&amp;ldquo;attachment_292&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;Christian Tetzlaff (alexandra-vosding.de)&amp;rdquo;] [/caption] The piece from last night&amp;rsquo;s concert that motivated my purchase was Tchaikovsky&amp;rsquo;s violin concerto, performed by Christian Tetzlaff—a violinist of modest stature with a powerful sound.</description>
+    </item>
+    
+    <item>
+      <title>Celibidache&#39;s Tchaikovsky</title>
+      <link>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</link>
+      <pubDate>Thu, 25 Feb 2010 11:26:29 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</guid>
+      <description>Tchaikovsky&amp;rsquo;s last three symphonies are probably the most performed and recorded symphonies in existence. Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being over a hundred of them, but the trinity that is Tchaikovsky&amp;rsquo;s four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Dear Ms. Wang</title>
+      <link>https://alexchao.github.io/posts/dear-ms-wang/</link>
+      <pubDate>Thu, 11 Feb 2010 05:58:50 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/dear-ms-wang/</guid>
+      <description>Out of a mostly irrational desire to witness two musical greats synergized in one absolutely fantastic display of awesomeness, I&amp;rsquo;d like to see Yuja Wang perform Rachmaninoff&amp;rsquo;s sonata. The second one of course. The first one is great too, but let&amp;rsquo;s face it, for a girl who professes a love for those lyrical, big, romantic pieces, Mlle. Wang can&amp;rsquo;t go wrong with Op. 36. And with Chopin&amp;rsquo;s second already under her belt, I&amp;rsquo;d only find it in the natural order of things.</description>
+    </item>
+    
+    <item>
+      <title>James Horner and the Lydian Mode</title>
+      <link>https://alexchao.github.io/posts/james-horner-and-the-lydian-mode/</link>
+      <pubDate>Thu, 28 Jan 2010 07:44:56 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/james-horner-and-the-lydian-mode/</guid>
+      <description>It&amp;rsquo;s a curious thing how an artist who has reached a certain level of creative maturity becomes somewhat of a prisoner to idiosyncrasy. Many composers, to take music as an example, have some kind of musical trademark. Some exhibit their signature flourishes subtly or almost imperceptibly, while others do us the convenience of posting a big, blinking, neon sign in the sky. At the moment, I&amp;rsquo;m starting to think that there&amp;rsquo;s a lot in the music of film composer James Horner that is big, blinking, and neon.</description>
+    </item>
+    
+    <item>
+      <title>Politics, A Bad Thing for Art</title>
+      <link>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</link>
+      <pubDate>Fri, 22 Jan 2010 07:58:45 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/politics-a-bad-thing-for-art/</guid>
+      <description>I can&amp;rsquo;t speak from experience, but I bet the first half of the 20th century was a God awful time to be living. It was a time when war and economic crisis scathed the face of humanity. (Actually, we haven&amp;rsquo;t come very far in this respect.) It also was a time when so much about art and its dissemination was necessarily political, and that is a terrible thing. [caption id=&amp;ldquo;attachment_175&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A stamp honoring Shostakovich&amp;rdquo;] [/caption]</description>
+    </item>
+    
+    <item>
+      <title>Russian Steppes</title>
+      <link>https://alexchao.github.io/posts/russian-steppes/</link>
+      <pubDate>Fri, 15 Jan 2010 05:28:10 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/russian-steppes/</guid>
+      <description>From a distance, Rachmaninoff and Tchaikovsky look much the same. Fact is, one name rarely ever surfaces without some mention of the other, and if you like music by one, chances are you also enjoy music by the other (convenient given the sheer number of classical albums that pair their works together). [caption id=&amp;ldquo;attachment_151&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A Young Rachmaninoff (senar.ru)&amp;rdquo;] [/caption]
+The opinion inherent in their seeming inseparability is that their works demonstrate an uncanny gift for melody and emotional expression.</description>
+    </item>
+    
+    <item>
+      <title>The Horn as Orchestral Descant</title>
+      <link>https://alexchao.github.io/posts/the-horn-as-orchestral-descant/</link>
+      <pubDate>Sat, 26 Dec 2009 07:13:24 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/the-horn-as-orchestral-descant/</guid>
+      <description>The term descant hearkens back to my youth as a choir boy, when my musical experiences were dominated by music of the church. We sang a number of hymns and psalms, and our director would often select a small group of us to sing a descant — known to me then only as an aria-like soprano part above the rest of the choir. It forced us to exercise the upper range of our voices and was very unforgiving of even the slightest deviations in pitch.</description>
+    </item>
+    
+    <item>
+      <title>The Third Concerto, 100 Years Strong</title>
+      <link>https://alexchao.github.io/posts/the-third-concerto/</link>
+      <pubDate>Tue, 01 Dec 2009 04:51:37 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/the-third-concerto/</guid>
+      <description>This last Saturday marked the 100th anniversary of Rachmaninoff&amp;rsquo;s third piano concerto. I don&amp;rsquo;t know if there were any performances anywhere to commemorate the piece, but then again, we don&amp;rsquo;t often commemorate pieces. Usually, it&amp;rsquo;s the life of the composer we celebrate. Still, I like to think about the significance of a musical work coming into existence, to fill an ethereal space where once there existed a musical void. Before November 28th, 1909, no one knew what the third concerto by Rachmaninoff sounded like, save the composer himself.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>recording on Alex Chao</title><link>https://alexchao.github.io/tags/recording/</link><description>Recent content in recording on Alex Chao</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2010 11:26:29 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/recording/index.xml" rel="self" type="application/rss+xml"/><item><title>Celibidache's Tchaikovsky</title><link>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</link><pubDate>Thu, 25 Feb 2010 11:26:29 +0000</pubDate><guid>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</guid><description>Tchaikovsky&amp;rsquo;s last three symphonies are probably the most performed and recorded symphonies in existence. Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being over a hundred of them, but the trinity that is Tchaikovsky&amp;rsquo;s four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>recording on Alex Chao</title>
+    <link>https://alexchao.github.io/tags/recording/</link>
+    <description>Recent content in recording on Alex Chao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Feb 2010 11:26:29 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/recording/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celibidache&#39;s Tchaikovsky</title>
+      <link>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</link>
+      <pubDate>Thu, 25 Feb 2010 11:26:29 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/celibidaches-tchaikovsky/</guid>
+      <description>Tchaikovsky&amp;rsquo;s last three symphonies are probably the most performed and recorded symphonies in existence. Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being over a hundred of them, but the trinity that is Tchaikovsky&amp;rsquo;s four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from.</description>
+    </item>
+    
+  </channel>
+</rss>

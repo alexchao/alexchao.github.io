@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>counterpoint on Alex Chao</title><link>https://alexchao.github.io/tags/counterpoint/</link><description>Recent content in counterpoint on Alex Chao</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2010 05:28:10 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/counterpoint/index.xml" rel="self" type="application/rss+xml"/><item><title>Russian Steppes</title><link>https://alexchao.github.io/posts/russian-steppes/</link><pubDate>Fri, 15 Jan 2010 05:28:10 +0000</pubDate><guid>https://alexchao.github.io/posts/russian-steppes/</guid><description>From a distance, Rachmaninoff and Tchaikovsky look much the same. Fact is, one name rarely ever surfaces without some mention of the other, and if you like music by one, chances are you also enjoy music by the other (convenient given the sheer number of classical albums that pair their works together). [caption id=&amp;ldquo;attachment_151&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A Young Rachmaninoff (senar.ru)&amp;rdquo;][/caption]
-The opinion inherent in their seeming inseparability is that their works demonstrate an uncanny gift for melody and emotional expression.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>counterpoint on Alex Chao</title>
+    <link>https://alexchao.github.io/tags/counterpoint/</link>
+    <description>Recent content in counterpoint on Alex Chao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Jan 2010 05:28:10 +0000</lastBuildDate><atom:link href="https://alexchao.github.io/tags/counterpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Russian Steppes</title>
+      <link>https://alexchao.github.io/posts/russian-steppes/</link>
+      <pubDate>Fri, 15 Jan 2010 05:28:10 +0000</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/russian-steppes/</guid>
+      <description>From a distance, Rachmaninoff and Tchaikovsky look much the same. Fact is, one name rarely ever surfaces without some mention of the other, and if you like music by one, chances are you also enjoy music by the other (convenient given the sheer number of classical albums that pair their works together). [caption id=&amp;ldquo;attachment_151&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo; caption=&amp;ldquo;A Young Rachmaninoff (senar.ru)&amp;rdquo;] [/caption]
+The opinion inherent in their seeming inseparability is that their works demonstrate an uncanny gift for melody and emotional expression.</description>
+    </item>
+    
+  </channel>
+</rss>
