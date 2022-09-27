@@ -5,7 +5,7 @@ draft: false
 tags: ['history']
 ---
 
-The No. 3 (C-minor) etude from **Rachmaninoff**'s first set of _Études-Tableaux_, Op. 33 was omitted from the original publication and released posthumously. I haven't read anything that explains why, but it probably has something to do with one of its melodies making an appearance in his [fourth piano concerto](http://alexchao.com/2010/03/clarity-in-rachmaninoffs-fourth-concerto/ "Rachmaninoff, Piano Concerto No. 4"), written some fifteen years later. \[caption id="attachment\_709" align="aligncenter" width="500" caption="antman79@flickr"\][![Piano Keys](https://alexchao-blog-media.s3.amazonaws.com/2021/07/23234-keys.jpg "Piano Keys")](http://www.flickr.com/photos/52820034@N05/4925772877/)\[/caption\]
+The No. 3 (C-minor) etude from **Rachmaninoff**'s first set of _Études-Tableaux_, Op. 33 was omitted from the original publication and released posthumously. I haven't read anything that explains why, but it probably has something to do with one of its melodies making an appearance in his [fourth piano concerto](http://alexchao.com/2010/03/clarity-in-rachmaninoffs-fourth-concerto/ "Rachmaninoff, Piano Concerto No. 4"), written some fifteen years later. [![Piano Keys](https://alexchao-blog-media.s3.amazonaws.com/2021/07/23234-keys.jpg "Piano Keys")](http://www.flickr.com/photos/52820034@N05/4925772877/)
 
 I guess it's only expected that, as a composer, you would eventually come to realize that a particular figure might shine a little brighter in a different setting.
 

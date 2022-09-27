@@ -19,7 +19,7 @@ Ugh, the distinction between _borrowing_ and _plagiarizing_ is so ambiguous some
 #### 
 [simonlife — by Alex Chao | McNeely and Shadows of the Empire, Revisited](http://alexchao.com/2010/09/mcneely-borrowed-from-walton/ "") - <time datetime="2010-09-10 20:24:23">Sep 5, 2010</time>
 
-\[...\] as I said I would, I finally got around to evaluating the claim that Joel McNeely‘s score to the novel and \[...\]
+ as I said I would, I finally got around to evaluating the claim that Joel McNeely‘s score to the novel and 
 <hr />
 #### 
 [Espen]( "mooglenurse@gmail.com") - <time datetime="2017-01-27 00:55:06">Jan 5, 2017</time>

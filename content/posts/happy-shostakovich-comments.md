@@ -29,5 +29,5 @@ Oh my god, I am so sad. I don't have an answer to that one. I suspect though we'
 #### 
 [simonlife — by Alex Chao &#124; The Horn Trill in Dvorak&#8217;s 8th Symphony](http://alexchao.com/2010/05/the-horn-trill-in-dvoraks-8th-symphony/ "") - <time datetime="2010-05-04 23:47:09">May 2, 2010</time>
 
-\[...\] in the steps of my last post, here’s another nifty little eight bar passage—this one from the finale of Dvorak’s \[...\]
+ in the steps of my last post, here’s another nifty little eight bar passage—this one from the finale of Dvorak’s 
 <hr />

@@ -7,7 +7,9 @@ tags: []
 
 For an upcoming recital, I have been trying to figure out how to perform (or arrange to have performed) my new choral work... without a chorus. Apart from my not having many connections in the choral community, a full chorus would probably outnumber the students and parents in attendance at the recital.
 
-As a fallback, I hastily mixed a synthesized rendition of the hymn for horn choir. I owe this exercise to GarageBand for having an impressive horn ensemble sample in its sound library, but I was happy enough with the results to take the time to "write out" (in Sibelius) the score for a 5-part horn choir. \[caption id="attachment\_796" align="aligncenter" width="960"\]![Horns are great. I'm not biased.](https://alexchao-blog-media.s3.amazonaws.com/2021/07/f36bd-brasschoiraction2009-5-of-64.jpg) Horns are great. I'm not biased.\[/caption\]
+As a fallback, I hastily mixed a synthesized rendition of the hymn for horn choir. I owe this exercise to GarageBand for having an impressive horn ensemble sample in its sound library, but I was happy enough with the results to take the time to "write out" (in Sibelius) the score for a 5-part horn choir.
+
+![Horns are great. I'm not biased.](https://alexchao-blog-media.s3.amazonaws.com/2021/07/f36bd-brasschoiraction2009-5-of-64.jpg) Horns are great. I'm not biased.
 
 Some concerns and considerations:
 

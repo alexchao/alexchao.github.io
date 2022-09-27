@@ -5,7 +5,7 @@ draft: false
 tags: []
 ---
 
-The latest flurry in the vicissitudes of my listening patterns summons the music of the church. I have created a playlist on Spotify called "Hymns" containing five ecclesiastical selections for unaccompanied chorus. \[caption id="attachment\_777" align="aligncenter" width="584"\][![Cathedral Interior](https://alexchao-blog-media.s3.amazonaws.com/2021/07/153ed-15120082362_822e48a9ec_k.jpg?w=1024&h=693)](https://www.flickr.com/photos/jonnie_t100/15120082362/) Cathedral Interior\[/caption\]
+The latest flurry in the vicissitudes of my listening patterns summons the music of the church. I have created a playlist on Spotify called "Hymns" containing five ecclesiastical selections for unaccompanied chorus. [![Cathedral Interior](https://alexchao-blog-media.s3.amazonaws.com/2021/07/153ed-15120082362_822e48a9ec_k.jpg?w=1024&h=693)](https://www.flickr.com/photos/jonnie_t100/15120082362/) Cathedral Interior
 
 *   Sergei Rachmaninoff – Liturgy of Saint John Chrysostom, Op. 31: _XII. To Thee We Sing_
 *   Sergei Rechmaninoff – All-Night Vigil, Op. 37: _II. Praise the Lord, O my soul_

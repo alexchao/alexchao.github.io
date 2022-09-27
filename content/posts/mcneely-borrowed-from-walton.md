@@ -5,7 +5,9 @@ draft: false
 tags: ['film score']
 ---
 
-So [as I said I would](http://alexchao.com/2010/08/joel-mcneely-borrows-from-ravel/ "McNeely borrows from Ravel"), I finally got around to evaluating the claim that **Joel McNeely**'s score to the novel and video game _Shadows of the Empire_ "borrows" plainly and unashamedly from the ballet _The Quest_ by 20th century British composer **William Walton**. \[caption id="attachment\_620" align="aligncenter" width="500" caption="William Walton, 1902-1983"\]![William Walton](https://alexchao-blog-media.s3.amazonaws.com/2021/07/b9071-walton.jpg "William Walton")\[/caption\]
+So [as I said I would](http://alexchao.com/2010/08/joel-mcneely-borrows-from-ravel/ "McNeely borrows from Ravel"), I finally got around to evaluating the claim that **Joel McNeely**'s score to the novel and video game _Shadows of the Empire_ "borrows" plainly and unashamedly from the ballet _The Quest_ by 20th century British composer **William Walton**.
+
+![William Walton](https://alexchao-blog-media.s3.amazonaws.com/2021/07/b9071-walton.jpg "William Walton")
 
 I'll say right now that my findings lend a lot of credence to the forum post that inspired my investigation:
 

@@ -13,9 +13,9 @@ Enter barbershop music.
 
 It's ironic that I had to leave the states and travel over 7,000 miles to Taiwan to discover and embrace what is often known as a uniquely American tradition, but barbershop music proved itself to me to be a class of _a cappella_ singing that shares almost no common ground with the modern vocal band. A precise specification of the style is in fact written into the [Barbershop Harmony Society](http://www.barbershop.org/)'s _Contest and Judging Handbook_. The section that outlines contest entry requirements reads:
 
-> Barbershop harmony is a style of unaccompanied vocal music characterized by consonant four-part chords for every melody note in a predominantly homophonic texture. \[...\]
+> Barbershop harmony is a style of unaccompanied vocal music characterized by consonant four-part chords for every melody note in a predominantly homophonic texture. 
 >
-> Occasional brief passages may be sung by fewer than four voice parts. \[...\]
+> Occasional brief passages may be sung by fewer than four voice parts. 
 >
 > Barbershop music features songs with understandable lyrics and easily singable melodies, whose tones clearly define a tonal center and imply major and minor chords and barbershop (dominant and secondary dominant) seventh chords that often resolve around the circle of fifths, while also making use of other resolutions. Barbershop music also features a balanced and symmetrical form, and a standard meter.
 

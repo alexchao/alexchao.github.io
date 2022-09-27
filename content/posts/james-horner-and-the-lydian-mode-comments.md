@@ -19,5 +19,5 @@ Thanks for your comment sarra. "Otherworldly" is the perfect way to describe it.
 #### 
 [Le &laquo;&nbsp;FRENCH HORN&nbsp;&raquo; chez HORNER | James Horner](http://jameshorner.fr/le-french-horn-chez-horner "") - <time datetime="2011-08-06 08:51:10">Aug 6, 2011</time>
 
-\[...\] celle de Deep Impact (A Distant Discovery\*).   le solo de cor au début de Deep impact http://alexchao.com/2010/01/james-horner-and-the-lydian-mode/   En une dizaine de secondes, ces quelques notes jouées sur un ciel \[...\]
+ celle de Deep Impact (A Distant Discovery\*).   le solo de cor au début de Deep impact http://alexchao.com/2010/01/james-horner-and-the-lydian-mode/   En une dizaine de secondes, ces quelques notes jouées sur un ciel 
 <hr />

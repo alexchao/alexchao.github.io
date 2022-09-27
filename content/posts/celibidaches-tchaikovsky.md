@@ -5,7 +5,9 @@ draft: false
 tags: ['recording']
 ---
 
-Tchaikovsky's last three symphonies are probably the most performed and recorded symphonies in existence.  Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being [over a hundred of them](http://en.wikipedia.org/wiki/List_of_symphonies_by_Joseph_Haydn "List of Haydn symphonies"), but the trinity that is Tchaikovsky's four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from. \[caption id="attachment\_267" align="aligncenter" width="350" caption="Celibidache conducts Tchaikovsky's 4th"\]![Celibidache conducts Tchaikovsky](https://alexchao-blog-media.s3.amazonaws.com/2021/07/0634f-celibidache-tchaikovsky.jpg "Celibidache conducts Tchaikovsky")\[/caption\]
+Tchaikovsky's last three symphonies are probably the most performed and recorded symphonies in existence.  Other contenders include those of Beethoven, Mozart, and maybe Haydn by virtue of there being [over a hundred of them](http://en.wikipedia.org/wiki/List_of_symphonies_by_Joseph_Haydn "List of Haydn symphonies"), but the trinity that is Tchaikovsky's four, five, and six delivers a sampling of Romanticism that has proven irresistible to popular taste. Brahms might be worth mentioning too, had he left us more than four to choose from.
+
+![Celibidache conducts Tchaikovsky](https://alexchao-blog-media.s3.amazonaws.com/2021/07/0634f-celibidache-tchaikovsky.jpg "Celibidache conducts Tchaikovsky")
 
 However, while there are countless recordings of these symphonies on the market, I think we've all grown accustomed to hearing a certain _kind_ of Tchaikovsky.  That is, few times have my ears ever been challenged by a noticeably divergent interpretation of these pieces.  A fifteen minute first movement of the fifth symphony, for example, is standard fare.
 
@@ -15,7 +17,9 @@ But of course, raw length doesn't say much about _any_ performance beyond vaguel
 
 > According to my father, the tempo of a specific piece is not given by a metronome number but depends much rather on other criteria in the score and on the acoustic of a hall.  This tempo fluctuates according to the complexity of the notes and their epiphenomena.  In short, more notes need more time to develop and return (to the ear).  _The richer the music, the slower the tempo_.
 
-\[caption id="attachment\_226" align="alignright" width="230" caption="Tchaikovsky"\]![Tchaikovsky](http://alexchao.com/wp-content/uploads/2010/02/tchaikovsky-1.jpg "Tchaikovsky")\[/caption\] This is a decidedly intellectual approach to performing music, but a fitting one for a conductor who committed to creating unique, enriching experiences for himself, the musicians, and the audience.  Unfortunately, the intricacies are mostly lost in the translation of real sound to electrical signals for those of us forced to relive the event through iTunes.  Celibidache likewise frowned sternly upon recorded music, believing it to be an encumbrance to one's spontaneity and in general a watered-down, unflattering rendering of the total experience.  These recordings were thus produced and released posthumously by his son.
+![Tchaikovsky](http://alexchao.com/wp-content/uploads/2010/02/tchaikovsky-1.jpg "Tchaikovsky")
+
+This is a decidedly intellectual approach to performing music, but a fitting one for a conductor who committed to creating unique, enriching experiences for himself, the musicians, and the audience.  Unfortunately, the intricacies are mostly lost in the translation of real sound to electrical signals for those of us forced to relive the event through iTunes.  Celibidache likewise frowned sternly upon recorded music, believing it to be an encumbrance to one's spontaneity and in general a watered-down, unflattering rendering of the total experience.  These recordings were thus produced and released posthumously by his son.
 
 What we hear in these recordings is extremely passionate music, but I'm almost ashamed to say it given that this is simply the nature of Tchaikovsky's music.  Merely relaxing the tempo could not alone explain the effectiveness of Celibidache's conducting, but I will say that the dauntingly lachrymose finale of the sixth symphony is especially effective at this pace.
 
