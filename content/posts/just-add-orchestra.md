@@ -9,9 +9,9 @@ The No. 3 (C-minor) etude from **Rachmaninoff**'s first set of _Études-Tableaux
 
 I guess it's only expected that, as a composer, you would eventually come to realize that a particular figure might shine a little brighter in a different setting.
 
-[Rachmaninoff, Etudes-Tableaux, Op. 33, No. 3](https://alexchao-blog-media.s3.amazonaws.com/2021/07/43bc5-rachmaninoff-op33no3-melody.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/43bc5-rachmaninoff-op33no3-melody.mp3" caption="Rachmaninoff, Etudes-Tableaux, Op. 33, No. 3" >}}
 
-[Rachmaninoff, Piano Concerto No. 4, II. Largo](https://alexchao-blog-media.s3.amazonaws.com/2021/07/e1892-rachmaninoff-concerto-4-ii-melody.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/e1892-rachmaninoff-concerto-4-ii-melody.mp3" caption="Rachmaninoff, Piano Concerto No. 4, II. Largo" >}}
 
 What a melody...
 

@@ -17,4 +17,4 @@ Underneath this blaring figure, the strings and everyone else are frantically ma
 
 I thought I had a recording of this piece from several years ago, starring yours truly, where I sound more like a donkey than an elephant, but I can't find it.  So here's a fragment from a recording by the slightly more reputable [Vienna Philharmonic](http://www.wienerphilharmoniker.at "Vienna Philharmonic") with [Myung-Whun Chung](http://www.deutschegrammophon.com/myungwhun.chung "Myung-Whun Chung").
 
-[Horn Awesomeness in Dvorak's 8th Symphony](https://alexchao-blog-media.s3.amazonaws.com/2021/07/dc739-dvorak-symphony-no.-8-horn-awesomeness.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/dc739-dvorak-symphony-no.-8-horn-awesomeness.mp3" caption="Horn Awesomeness in Dvorak's 8th Symphony" >}}

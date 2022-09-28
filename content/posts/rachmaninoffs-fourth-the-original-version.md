@@ -13,15 +13,15 @@ If those alterations were deemed revisions, his changes to the fourth concerto i
 
 A few weeks ago [I wrote about a passage](/2010/03/clarity-in-rachmaninoffs-fourth-concerto/ "Rachmaninoff's Fourth Concerto") in the second subject of the final movement (1941 version) with a horn solo.  I was surprised to find this passage entirely absent in the original, 1926 version.
 
-[Second subject from finale (1926)](https://alexchao-blog-media.s3.amazonaws.com/2021/07/dbabe-rachmaninoff-concerto-4-iii-2nd-subject.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/dbabe-rachmaninoff-concerto-4-iii-2nd-subject.mp3" caption="Second subject from finale (1926)" >}}
 
-[Second subject from finale (1941)](https://alexchao-blog-media.s3.amazonaws.com/2021/07/edca7-rachmaninoff-concerto-4-iii-2nd-subject-1941.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/edca7-rachmaninoff-concerto-4-iii-2nd-subject-1941.mp3" caption="Second subject from finale (1941)" >}}
 
 In its place, the piano takes center stage with a familiar _Dies Irae_\-inspired melody spelled out in thick, stepwise chords. The key of D-flat is still strongly suggested, but the horn is gone—which makes me sad—and there aren't any voices in the orchestra that assume its role from the 1941 version, with either a soloistic line or pentatonic character.  Instead, a solo trumpet and a choir of woodwinds chime in intermittently with supporting, motivic pronouncements.
 
 Following the second subject, _a clarinet solo_, entirely nonexistent in the 1941 version, marks the transition into the next set of themes.  In fact, there are several places where Rachmaninoff has written solos into the manuscript score for instruments other than piano but has omitted them in the final version.
 
-[Clarinet solo from Rachmaninoff's Piano Concerto No. 4](https://alexchao-blog-media.s3.amazonaws.com/2021/07/36fc7-rachmaninoff-concerto-4-iii-clarinet.mp3)
+{{< audio src="https://alexchao-blog-media.s3.amazonaws.com/2021/07/36fc7-rachmaninoff-concerto-4-iii-clarinet.mp3" caption="Clarinet solo from Rachmaninoff's Piano Concerto No. 4" >}}
 
 This is all small change though.  The most drastic difference in the manuscript version of the finale is the _return_ of the second subject, adding at least two more minutes of music to the piece.  For me, this restatement of some of the earlier themes rounds out the structure of the movement and I think results in a greater sense of resolution for listeners who, consciously or not, expect a sonata or rondo-like pattern.
 
