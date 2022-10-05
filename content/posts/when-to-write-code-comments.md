@@ -11,9 +11,7 @@ Generally speaking, my advice on this topic would be:
 
 Code written in an imperative way can be read line by line to determine what processing is being performed. Re-stating the logic or steps of execution in a comment runs the risk of the comment falling out of sync with the code and becoming outdated.
 
-If a section of imperative code gets big, unwieldy, and hard to read, that's probably a sign that a refactoring is needed and some abstractions need to be introduced.
-
-Code written in a declarative way should — in theory — be even more self-explanatory, unless the naming is poor or the wrong abstractions are being used.
+If a section of imperative code gets big, unwieldy, and hard to read, that's probably a sign that a refactoring is needed and some abstractions need to be introduced. Code written in a declarative way should — in theory — be even more self-explanatory, unless the naming is poor or the wrong abstractions are being used.
 
 There are of course some situations where comments are useful.
 
@@ -22,7 +20,9 @@ To inform the reader of things that cannot be discerned from reading the code
 
 Sometimes, we have to call functions with funny arguments, or format data in funny ways that defy expectation. Maybe there's some odd side-effect of the function we're calling that forced us to structure the arguments in a strange way, and this workaround was the best option available at the time.
 
+A comment here can dispel some confusion for a newcomer to this area of the codebase (or even for one's future self).
+
 To describe how a thing should be used
 --------------------------------------
 
-Docstrings are useful... sometimes.
+Docstrings are useful, sometimes. Actually, the unit tests should provide sufficient examples of how to use something, but sometimes, the parameters to a class or function would benefit from more detailed explanation.
