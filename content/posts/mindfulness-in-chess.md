@@ -1,5 +1,5 @@
 ---
-title: "Mindfulness in Chess"
+title: "Mindfulness and Chess"
 date: 2023-02-25T10:13:12+08:00
 draft: false
 ---
