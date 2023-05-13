@@ -109,6 +109,9 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
