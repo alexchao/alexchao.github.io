@@ -5,7 +5,16 @@
     <link>https://alexchao.github.io/</link>
     <description>Recent content on Alex Chao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 10:13:12 +0800</lastBuildDate><atom:link href="https://alexchao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 21:49:42 -0700</lastBuildDate><atom:link href="https://alexchao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Engineering Values</title>
+      <link>https://alexchao.github.io/posts/engineering-values/</link>
+      <pubDate>Wed, 17 May 2023 21:49:42 -0700</pubDate>
+      
+      <guid>https://alexchao.github.io/posts/engineering-values/</guid>
+      <description>&lt;p&gt;I was recently prompted (perhaps by a voice in my head) to come up with my own set of engineering values. What follows is surely incomplete, but it arrived with an odd clarity.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Mindfulness and Chess</title>
       <link>https://alexchao.github.io/posts/mindfulness-in-chess/</link>
