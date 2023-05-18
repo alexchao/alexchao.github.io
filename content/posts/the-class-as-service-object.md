@@ -99,9 +99,9 @@ public void add(Object element) {
 
 Using private methods of a class to encapsulate subdivided units of work makes it a very natural process to repeatedly perform [extract method](https://refactoring.com/catalog/extractFunction.html) on the more gnarly blocks of your code. The class itself effectively serves a grouping namespace for the related bits of logic, keeping things nice and tidy. Additionally, if the language supports access modifiers (`public`, `private`, etc.), you can explicitly communicate the intended availability of each piece of logic to other developers.
 
-### An interface, with all its accompanying benefits
+### An interface, with all its attendant benefits
 
-If planned out well enough, a class will implement an interface. Even if built in haste with no predetermined interface, one can be derived after the fact. Simply having an interface enables a range of benefits owing to the age-old principle:
+A well-thought-out class will implement an interface, but even with no predetermined interface, one can be derived after the fact. Simply having an interface enables a range of benefits owing to the age-old principle:
 
 > Program to an interface, not an implementation.
 
@@ -109,7 +109,7 @@ One of these benefits is flexibility in testing.
 
 In a system where many such service objects exist to handle application logic, complex tasks will be performed by many service objects that compose and depend on each other. Designing logic to depend on the _interface_ of a downstream service object, rather than directly on the service object itself, makes it possible to substitute mocks and stubs in for the real thing.
 
-Here's another implementation of the `CreateUser` class and its corresponding test, _without_ any use of its interface:
+Here's an implementation of a class and its corresponding test, _without_ any acknowledgement of its interface:
 
 {{< highlight ts >}}
 class CreateUser {
@@ -130,6 +130,8 @@ class CreateUser {
     return newUser
   }
 }
+
+
 {{< /highlight >}}
 [comment]: <> (Code to an interface, not an implementation. Show example where UserModel is an interface instead.)
 
