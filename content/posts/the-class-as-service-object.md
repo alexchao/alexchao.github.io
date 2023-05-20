@@ -62,7 +62,7 @@ It's seemingly such a simple concept that one might hesitate to even call it a d
 
 The book _Refactoring to Patterns_ by Joshua Kerievsky contains this figure, which I think illustrates the concept in Java pretty well, using a self-expanding list type as an example:
 
-**Before refactoring...**
+#### Before refactoring...
 
 {{< highlight java >}}
 public void add(Object element) {
@@ -79,7 +79,7 @@ public void add(Object element) {
 }
 {{< /highlight >}}
 
-**After refactoring...**
+#### After refactoring...
 
 {{< highlight java >}}
 public void add(Object element) {
@@ -105,8 +105,9 @@ In a system where many such service objects exist to handle application logic, c
 
 Here's an implementation of a class that depends directly on the types of its dependencies:
 
+#### The class definition itself...
+
 {{< highlight ts >}}
-// The class definition itself...
 class BobaClerk {
   private teaPot: TeaPot
   private integredientStore: IngredientStore
@@ -121,7 +122,6 @@ class BobaClerk {
   public makeBoba(order: Order): CupOfBoba {
     const {
       teaLeaves,
-      sugar,
       toppings,
     } = this.integredientStore.getIngredients(order)
 
@@ -130,8 +130,11 @@ class BobaClerk {
     return new CupOfBoba(tea, toppings)
   }
 }
+{{< /highlight >}}
 
-// It's accompanying test...
+#### And it's accompanying test
+
+{{< highlight ts >}}
 describe('BobaClerk', function () {
   it('makes a cup of boba' function () {
     const teaPot = new TeaPot()
