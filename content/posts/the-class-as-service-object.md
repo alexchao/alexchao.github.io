@@ -10,24 +10,16 @@ This is not a novel observation. I particularly like Brandon Rhodes's expression
 
 Also, this observation is actually a digression from what I want to talk about here, but it is relevant in that it begs one to ask, "What good are classes for?"
 
-## The Class as a Container for Logic
+## The Class as a Container for Stateless Logic
 
 In any software project that grows to a certain size, we inevitably find ourselves having to manage the growing complexity of the system and explosion of business logic. A project often starts out with business logic baked into whatever layer sits closest to the client interface (e.g. the controller in a typical MVC architecture), but as that becomes unwieldy, we look to find a new home for all of this code. Extracting this logic to a new place inherently means taking some lines of code and removing them from the body of a named controller or handler module. Where do these lines of code go then?
 
 The pattern that I see most often and that I like very much is the use of the class to encapsulate a single, well defined unit of work.
 
 {{< highlight ts >}}
-class CreateUser {
-  private User: UserModel
-
-  constructor(User: UserModel) {
-    this.User = User
-  }
-  
-  public async call(attrs: UserAttrs): Promise<UserRecord> {
-    const newUser = new this.User(attrs)
-    await newUser.save()
-    return newUser
+class TeaPot {
+  public brew(leaves: TeaLeaves, water: Water): Tea {
+    // ...
   }
 }
 {{< /highlight >}}
@@ -38,6 +30,8 @@ I've seen these entities referred to with names such as services, service object
 - Modular and composable
 - Reusable
 
+[comment]: <> (Stateless...)
+
 ## Benefits
 
 The above example is perhaps contrived and overly simple, but we can already appreciate a few things that using a class affords us.
@@ -46,7 +40,7 @@ The above example is perhaps contrived and overly simple, but we can already app
 
 We can use the name of the class to denote its function and responsibility.
 
-We're used to seeing class names that take the [agent noun](https://en.wikipedia.org/wiki/Agent_noun) form, like `UserCreator` in this case, but in practice, I've seen classes named in a way that simply states what they do, using a verb phrase or predicate. This obviously deviates from the usual OOP naming conventions, but I don't think that matters too much; we just want to know what the thing does.
+We're used to seeing class names that take the [agent noun](https://en.wikipedia.org/wiki/Agent_noun) form, like `*Builder` or `*Sender`, but in practice, I've seen classes named in a way that simply states what they do, using a verb phrase or predicate. This obviously deviates from the usual OOP naming conventions, but I don't think that matters too much; we just want to know what the thing does.
 
 "But... functions also have a name..." one might say. More on this a bit later.
 
@@ -64,7 +58,7 @@ The constructor is a natural place to inject dependencies, as if to say, "These 
 
 ### A class lends itself nicely to the Compose Method pattern
 
-It's seemingly such a simple concept that one might hesitate to even call it a design pattern, but the **compose method** pattern involves breaking down program code into small, intention-revealing steps at roughly the same level of detail. It is so fundamental a pattern that we apply it without being aware of it, and yet there are times when we forget to use it.
+It's seemingly such a simple concept that one might hesitate to even call it a design pattern, but the **compose method** pattern involves breaking down program code into small, named, intention-revealing steps, all at roughly the same level of detail. It is so fundamental a pattern that we apply it without being aware of it, and yet there are times when we forget to use it.
 
 The book _Refactoring to Patterns_ by Joshua Kerievsky contains this figure, which I think illustrates the concept in Java pretty well, using a self-expanding list type as an example:
 
@@ -109,31 +103,65 @@ One of these benefits is flexibility in testing.
 
 In a system where many such service objects exist to handle application logic, complex tasks will be performed by many service objects that compose and depend on each other. Designing logic to depend on the _interface_ of a downstream service object, rather than directly on the service object itself, makes it possible to substitute mocks and stubs in for the real thing.
 
-Here's an implementation of a class and its corresponding test, _without_ any acknowledgement of its interface:
+Here's an implementation of a class that depends directly on the types of its dependencies:
 
 {{< highlight ts >}}
-class CreateUser {
-  private User: UserModel
-  private emailService: EmailService
+// The class definition itself...
+class BobaClerk {
+  private teaPot: TeaPot
+  private integredientStore: IngredientStore
+  private kitchen: Kitchen
 
-  constructor(User: UserModel, emailService: EmailService) {
-    this.User = User
-    this.emailService = emailService
+  constructor(teaPot: TeaPot, integredientStore: IngredientStore, kitchen: Kitchen) {
+    this.teaPot = teaPot
+    this.integredientStore = IngredientStore
+    this.kitchen = kitchen
   }
   
-  public async call(attrs: UserAttrs): Promise<UserRecord> {
-    const newUser = new this.User(attrs)
-    await newUser.save()
+  public makeBoba(order: Order): CupOfBoba {
+    const {
+      teaLeaves,
+      sugar,
+      toppings,
+    } = this.integredientStore.getIngredients(order)
 
-    this.emailService.sendNewUserWelcome(newUser.email)
-
-    return newUser
+    const water = this.kitchen.getWater()
+    const tea = this.teaPot.brew(teaLeaves, water)
+    return new CupOfBoba(tea, toppings)
   }
 }
 
+// It's accompanying test...
+describe('BobaClerk', function () {
+  it('makes a cup of boba' function () {
+    const teaPot = new TeaPot()
+    const ingredientStore = new IngredientStore()
+    const kitchen = new Kitchen()
 
+    const bobaClerk = new BobaClerk(teaPot, ingredientStore, kitchen)
+
+    const order = new Order({
+      teaType: TeaType.oolong,
+      toppings: [Topping.mangoBoba, Topping.nataDeCoco],
+    })
+
+    const cupOfBoba = bobaClerk.makeBoba(order)
+
+    expect(cupOfBoba.flavorProfile()).to.equal({
+      roastLevel: 'medium-light',
+      mouthfeel: 'chewy',
+    })
+  })
+})
 {{< /highlight >}}
-[comment]: <> (Code to an interface, not an implementation. Show example where UserModel is an interface instead.)
+
+Seemingly simple enough. This test lacks an expectation about the sending of the welcome email, but finding a way to mock the `sendNewUserWelcome` method of the `EmailService` class should not be difficult.
+
+Still, needing to create an instance of `EmailService` could serve as a possible annoyance, especially in a more complex example where it has a myriad of dependencies and possible side effects (indeed, one would expect a module called `EmailService` to at least make some network calls).
+
+And to return to the point about mocking the `sendNewUserWelcome` method: a mock or stub here would have to mean the `sendNewUserWelcome` method name appearing somewhere in this test file (presumably, you would have some line of code like: `mock(emailService).expects('sendNewUserWelcome').once().withArgs(...)`).
+
+Now, the same implementation 
 
 ## Trade-offs
 
