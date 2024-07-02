@@ -95,6 +95,13 @@ name = "Music"
 url = "/music/"
 weight = 30
 
+[[menu.main]]
+identifier = "stories"
+name = "Stories"
+# Currently hosted on Github Pages at <custom_domain>/stories
+url = "/stories/"
+weight = 40
+
 # [[menu.main]]
 # identifier = "posts"
 # name = "Posts"
