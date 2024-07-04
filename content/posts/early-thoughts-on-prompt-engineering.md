@@ -1,6 +1,6 @@
 ---
 title: "Early Thoughts on Prompt Engineering"
-date: 2024-07-02T22:29:07+08:00
+date: 2024-07-04T20:00:00+00:00
 draft: true
 ---
 
@@ -10,9 +10,9 @@ My initial reaction to the term *prompt engineering* was skepticism that anythin
 
 ## Domain knowledge and understanding
 
-Deriving an LLM-based strategy for your problem requires a thorough understanding of the domain and the ability to define a sound mental model of it. You will, after all, be naming things and giving instructions. These should be precise and unambiguous. To skimp on discipline here opens you up to the vagaries of the token generation. The LLM has a universe of knowledge available to it, which &mdash; for all its benefits &mdash; primes it to wander astray of your intended path. Having a clear mental model of the problem, including the parts of it that don't need solving, will help keep you (and it) on track.
+Deriving an LLM-based strategy for your problem requires a thorough understanding of the domain and the ability to define a sound mental model of it. You will, after all, be naming things and giving instructions. These should be precise and unambiguous. To skimp on discipline here exposes you to the vagaries of the token generation. The LLM has a universe of knowledge available to it, which &mdash; for all its benefits &mdash; primes it to wander astray of your intended path. Having a clear mental model of the problem, including the parts of it that don't need solving, will help keep you (and it) on track.
 
-Interestingly, good naming in software engineering is mostly just a benefit to humans; in prompt engineering, it is akin to algorithmic bedrock.
+Interestingly, good naming in software engineering is mostly just a benefit to humans; in prompt engineering, perhaps it could be likened to algorithmic bedrock.
 
 ## Problem decomposition
 
@@ -24,10 +24,10 @@ This subproblem definition step is especially important in problem domains where
 
 What follows naturally from defining subproblems is the process of building independent modules of work that can be composed together, ideally by defining interfaces at their boundaries. Any LLM that can be instructed to produce JSON provides this capability. Working with interfaces allows code modules and prompt modules to be interleaved with each other and chained together into workflows and pipelines.
 
-Even if constrained to just use prompts without code, by mapping out the "business" rules &mdash; including the parameters, the conditions upon which to fork logical pathways, the pathways not worth pursuing, etc. &mdash; you can build a series of prompts to model the decision-making steps, their inputs, and their outputs, i.e. the so-called "giving the model time to think" strategy.
+Even if just working with prompts in the absence of code, mapping out the "business" rules &mdash; including the parameters, the conditions upon which to fork logical pathways, the pathways not worth pursuing, etc. &mdash; will produce a series of prompts that encode the decision-making steps, their inputs, and their outputs, i.e. a form of the so-called "giving the model time to think" strategy.
 
 ## Framing
 
-Finally, this is less of an engineering parallel, but it helps to think of any current LLM as a human agent, with basic reasoning abilities and judgment, that is quite good at interpreting meaning and making associations, but that lacks context and is perhaps weak in raw computation and multi-tasking. It will accomplish what you hope it will insofar as you have helped it to build context around your problem and provided it with clear instructions.
+This is less of an engineering parallel, but it helps to think of any current, consumer-level LLM as a human agent, with basic reasoning abilities and judgment, that is quite good at interpreting meaning and making associations, but that lacks context and is perhaps weak in raw computation and multi-tasking. It will accomplish what you ask of it insofar as you have presented it with a clearly defined problem in a somewhat known context.
 
 However, it is also blindly subservient, meaning that it will do whatever you ask it to, no matter what, even if that turns out to be the wrong thing to do.
