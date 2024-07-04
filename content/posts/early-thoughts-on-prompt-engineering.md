@@ -1,20 +1,20 @@
 ---
 title: "Early Thoughts on Prompt Engineering"
-date: 2024-07-04T20:00:00+00:00
-draft: true
+date: 2024-07-04T20:00:00+08:00
+draft: false
 ---
 
 My initial reaction to the term *prompt engineering* was skepticism that anything of the sort could be called engineering. Having now spent a bit of time using LLM AI to produce a solution to a small content generation problem, I've arrived at a few takeaways, some of which have pushed me to be less dismissive of this notion.
 
 <!--more-->
 
-## Domain knowledge and understanding
+## Domain Knowledge and Understanding
 
 Deriving an LLM-based strategy for your problem requires a thorough understanding of the domain and the ability to define a sound mental model of it. You will, after all, be naming things and giving instructions. These should be precise and unambiguous. To skimp on discipline here exposes you to the vagaries of the token generation. The LLM has a universe of knowledge available to it, which &mdash; for all its benefits &mdash; primes it to wander astray of your intended path. Having a clear mental model of the problem, including the parts of it that don't need solving, will help keep you (and it) on track.
 
 Interestingly, good naming in software engineering is mostly just a benefit to humans; in prompt engineering, perhaps it could be likened to algorithmic bedrock.
 
-## Problem decomposition
+## Problem Decomposition
 
 The principles of sound engineering apply. Breaking the problem down into simpler subproblems seems to yield better results, likely by forcing you to state your intermediate requirements more concretely. The payoff of this effort is driven from the bottom upwards: LLMs are simply more likely to fulfill your request if given less to do and less to consider.
 
