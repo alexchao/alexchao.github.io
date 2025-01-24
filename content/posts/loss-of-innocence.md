@@ -12,7 +12,7 @@ These are the sobering conditions of this transitional stage in my life, but wha
 
 ## The world has become more chaotic
 
-Or at least that's what it feels like. The present has a host of concerns on offer that 10 years ago would not have seemed plausible or, even if so, were only within foresight of those who were paying close attention to the trends. To enumerate some of the things that have invaded extant reality:
+Or at least that's what it feels like. The present has a host of concerns on offer that 10 years ago would not have seemed plausible or, even if so, were only apparent to those who were paying close attention to the trends. To enumerate some of the things that have invaded extant reality:
 
 - The invasion of Ukraine by Putin's Russia and the ongoing ground war.
 - The looming threat of war between Taiwan and China.
