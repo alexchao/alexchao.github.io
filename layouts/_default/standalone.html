@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }}</title>
+    {{ partialCached "head.html" . }}
+    <style>
+        .post-content a.home-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            text-decoration: none;
+            color: var(--primary);
+            font-size: 0.9rem;
+            box-shadow: none;
+        }
+    </style>
+</head>
+<body>
+    <main class="main">
+        <article class="post-single">
+            <div class="post-content">
+                <a href="/" class="home-link">← Home</a>
+                {{ .Content }}
+            </div>
+        </article>
+    </main>
+    {{ partialCached "footer.html" . }}
+</body>
+</html> 

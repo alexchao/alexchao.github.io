@@ -1,9 +1,12 @@
 ---
 title: "Alex Chao"
+layout: "standalone"
 draft: false
 ---
 
-alex.h.chao@gmail.com | Pasadena, CA 91106
+# Alex Chao
+[alexchao.com](https://alexchao.com) | [LinkedIn](https://linkedin.com/in/alexchao)  
+Pasadena, CA | alex.h.chao@gmail.com | 626-689-8764
 
 ## Experience
 
