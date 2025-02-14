@@ -9,6 +9,10 @@ draft: false
 [alexchao.com](https://alexchao.com) | [LinkedIn](https://linkedin.com/in/alexchao)  
 Pasadena, CA | alex.h.chao@gmail.com
 
+## Summary
+
+Senior software engineer with large-company and startup experience, comfortable with a range of tools across the software stack. Cares about thoughtful domain modeling, code design, and shipping fast and with confidence. Values teamwork. Very excited about building with LLMs.
+
 ## Experience
 
 ### MeeOpp
@@ -19,7 +23,7 @@ Joined as the 4th engineer and first senior hire to help scale a K-12 language l
 
 **Senior Software Engineer** (*April 2023 - February 2025*)
 
-- Managed data warehouse and ETL pipelines with Dagster, Airbyte, and DBT
+- Bootstrapped data warehouse and ETL pipelines (Dagster, Airbyte, DBT) to support BI needs and batch jobs.
 - Built system to streamline tracking and completion of grading tasks, achieving business-defined turnaround times and leveraging low-code tools to ship fast
 - Designed flexible grading framework supporting multiple question types and grading strategies, enabling horizontal scaling with external graders
 - Pioneered LLM-based solutions for content generation and grading, experimenting with CoT workflows and building custom tools for prompt management and running evals
