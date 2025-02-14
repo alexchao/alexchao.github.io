@@ -53,7 +53,9 @@ Full-stack development on Ruby on Rails e-commerce platform. Managed site infras
 Progressed from full-stack developer to Engineering Manager, scaling the business product team from 5 to 20+ engineers. Led development of B2B and revenue-generating products serving 100M+ monthly users. Built core features of Yelp for Business Owners platform, including ads and self-serve tools, using Python and JavaScript. Implemented team-wide improvements in testing infrastructure and security practices.
 
 ### Microsoft
+
 *Mountain View, CA*
+
 **Software Development Engineer in Test** | *June 2008 – September 2010*
 
 Contributed to manual and automated testing of the Microsoft Office for Mac 2011 desktop release.
