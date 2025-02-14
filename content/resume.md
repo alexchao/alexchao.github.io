@@ -62,11 +62,10 @@ Started pre-IPO as full-stack developer (Python, JavaScript) and progressed to e
 
 ### Microsoft
 
-*Mountain View, CA*
-
+*Mountain View, CA*  
 **Software Development Engineer in Test** (*June 2008 – September 2010*)
 
-Contributed to manual and automated testing of the Microsoft Office for Mac 2011 desktop release.
+Contributed to manual and UI-driven automated testing of the Microsoft Office for Mac 2011 desktop release.
 
 ## Technical Skills
 
