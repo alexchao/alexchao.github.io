@@ -11,24 +11,26 @@ Pasadena, CA | alex.h.chao@gmail.com
 
 ## Summary
 
-Senior software engineer with large-company and startup experience, comfortable with a range of tools across the software stack. Cares about thoughtful domain modeling, code design, and shipping fast and with confidence. Values teamwork. Very excited about building with LLMs.
+Senior software engineer with large-company and startup experience, comfortable with a range of tools across the software stack. Values teamwork, thoughtful domain modeling, code design, and shipping fast and with confidence. Excited about building with LLMs.
 
 ## Experience
 
 ### MeeOpp
 
-*Hong Kong*
+*Hong Kong*  
+**Senior Software Engineer** (*April 2023 - February 2025*)  
+**Lead Engineer** (*October 2019 - April 2023*)  
 
 Joined as the 4th engineer and first senior hire to help scale a K-12 language learning platform serving APAC schools.
 
-**Senior Software Engineer** (*April 2023 - February 2025*)
+#### Senior Software Engineer
 
 - Bootstrapped data warehouse and ETL pipelines (Dagster, Airbyte, DBT) to support BI needs and batch jobs.
 - Built system to streamline tracking and completion of grading tasks, achieving business-defined turnaround times and leveraging low-code tools to ship fast
 - Designed flexible grading framework supporting multiple question types and grading strategies, enabling horizontal scaling with external graders
 - Pioneered LLM-based solutions for content generation and grading, experimenting with CoT workflows and building custom tools for prompt management and running evals
 
-**Lead Engineer** (*October 2019 - April 2023*)
+#### Lead Engineer
 
 - Set up core engineering practices (CI/CD, testing, code review) and daily release cycle to get the team shipping reliable code quickly
 - Became central connection point between founders, engineers, and subject matter experts, translating business goals into solutions and driving key product decisions, stepping in as product lead when needed
@@ -36,8 +38,7 @@ Joined as the 4th engineer and first senior hire to help scale a K-12 language l
 
 ### StackCommerce
 
-*Los Angeles, CA*
-
+*Los Angeles, CA*  
 **Software Engineer / Lead Engineer** (*August 2017 – October 2019*)
 
 Full-stack development on Ruby on Rails e-commerce platform. Managed site infrastructure and built features across both B2C and B2B initiatives, working closely with non-engineering stakeholders. As lead engineer, managed 10 engineers (5 remote) and worked with product team to plan and prioritize roadmap.
@@ -49,8 +50,7 @@ Full-stack development on Ruby on Rails e-commerce platform. Managed site infras
 
 ### Yelp
 
-*San Francisco, CA*
-
+*San Francisco, CA*  
 **Engineering Manager, Business Product Team** (*April 2013 – July 2015*)  
 **Software Engineer** (*September 2010 – April 2013*)
 
@@ -70,13 +70,10 @@ Contributed to manual and automated testing of the Microsoft Office for Mac 2011
 
 ## Technical Skills
 
-**Languages & Core Technologies**: Python, TypeScript, SQL
-
-**Frontend**: React, Next.js
-
-**Backend**: FastAPI, Django, Node.js, GraphQL, REST
-
-**Infrastructure & DevOps**: Docker, Kubernetes, AWS, git
+**Languages & Core Technologies**: Python, TypeScript, SQL  
+**Frontend**: React, Next.js  
+**Backend**: FastAPI, Django, Node.js, GraphQL, REST  
+**Infrastructure & DevOps**: Docker, Kubernetes, AWS, git  
 
 ## Education
 
