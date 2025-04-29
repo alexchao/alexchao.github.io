@@ -10,7 +10,7 @@ The first thing to say about what it takes to learn a new skill effectively is t
 
 # The Grand Gesture
 
-To study Chinese, I made the decision to leave my job and put my career on pause so that I could move to Taiwan and enroll in a formal, university-run language program. At the time, I was 30, with roughly 8 years of experience behind me as a software engineer. With a year and a half of formal study and some months bookending my time abroad to move and get settled, it would be a full two years before I would start working again.
+To study Chinese, I made the decision to leave my job and put my career on pause so that I could move to Taiwan and enroll in a formal, university-run language program. At the time, I was 30, with roughly 8 years of experience as a software engineer. With a year and a half of formal study and some months bookending my time abroad to move and get settled, it would be a full two years before I would start working again.
 
 I later came to understand that this hiatus was not without its costs, both to my career and my personal life. On the career side, being completely absent from the tech industry for two years amounted to [falling out of touch with the scene]. In my personal life, friendships waned as people with whom I regularly shared experiences were suddenly separated by an ocean and several timezones. They went on about their lives, as did I.
 
@@ -26,7 +26,7 @@ All of this is to say that the decision I made about *how* to learn Chinese came
 
 A proper learning environment is one where you are forced to use your emerging skills without recourse to familiar crutches. To this end, Taiwan is a society where most people would prefer not to speak English if they can avoid it (as compared to other cosmpolitan hubs in Asia, like Hong Kong or Singapore), and choosing to live there was the obvious first step towards ensuring that my daily interactions involved utterances in Chinese.
 
-However, it is not uncommon to encounter expats in Taiwan who have lived there for years and yet who can't complete a sentence in Chinese, as obvious evidence that physical presence is insufficient unless you engage with the society around you. Furthermore, the most fruitful contact points with local society require injecting yourself into pockets of the social fabric where non-native speakers are less likely to tread, but where a language-agnostic shared interest serves as a medium for facilitating communication across the language barrier. For me, these were the symphonic band and symphony orchestra at the university where I studied. The deep familiarity I possessed with music, music theory, and how rehearsals are typically run situated my mind in a context that was fitfully primed to infer the meaning of words and phrases I had never heard before.
+However, it is not uncommon to encounter expats in Taiwan who have lived there for years and yet who can't complete a sentence in Chinese, as obvious evidence that physical presence is insufficient unless you engage with the society around you. Furthermore, the most fruitful contact points with local society require injecting yourself into pockets of the social fabric where non-native speakers are less likely to tread, but where a language-agnostic shared interest serves as a medium for facilitating communication across the language barrier. For me, these were the symphonic band and symphony orchestra at the university where I studied. My familiarity with music theory, rehearsal etiquette and protocol, and general musicianship situated my mind in a context that was primed to infer the meaning of words and phrases I had never heard before.
 
 # Getting Things Wrong
 
@@ -41,4 +41,4 @@ However, it is not uncommon to encounter expats in Taiwan who have lived there f
 
 # How Much Do You Want It?
 
-Ultimately, how much progress you make in a given period of time will depend on how much 
+Ultimately, how much progress you make in a given period of time will depend on how desperately you want to get better. The process of learning a language has moments that feel like milestones, where some boundary has been crossed and you experience the subjective sensation of meaning automatically lighting up in your brain or of effortless speech production. With serious study, these moments come often, but they are never wholly satisfying.
