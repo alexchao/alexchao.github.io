@@ -6,7 +6,7 @@ draft: false
 
 It’s May 2025, and the AI revolution is in full swing. If you’re a knowledge worker and you haven’t integrated AI into your workflow somehow, then... like, what are you doing?
 
-I’m currently paying for OpenAI’s and Anthropic’s lowest-tier premium plans, in part because I’m curious to see how the foundational model companies navigate their soul-searching between being research institutions and product businesses, but mostly because I find the injection of intelligence into my personal and work life to be really useful and fascinating. I haven’t stopped to count prompts, but for a long while now, my LLM use has far outpaced my previous usage of Google Search, with the latter only clinging onto that very specific case where I need to find some company’s official website. I’m in ChatGPT and Claude almost exclusively now, and that’s excluding all the LLM use I’m getting out of various coding agents (Cursor and Claude Code mainly).
+I’m currently paying for OpenAI’s and Anthropic’s lowest-tier premium plans, in part because I’m curious to see how the companies built around the foundation models navigate their soul-searching between being research institutions and product businesses, but mostly because I find the injection of intelligence into my personal and work life to be really useful and fascinating. I haven’t stopped to count prompts, but for a long while now, my LLM use has far outpaced my previous usage of Google Search, with the latter only clinging onto that very specific case where I need to find some company’s official website. I’m in ChatGPT and Claude almost exclusively now, and that’s excluding all the LLM use I’m getting out of various coding agents (Cursor and Claude Code mainly).
 
 ## Thinking Out Loud
 
