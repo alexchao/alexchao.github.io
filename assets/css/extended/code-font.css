@@ -1,0 +1,7 @@
+/* Override code block and inline code font-family for posts */
+.post-content code,
+.post-content pre code,
+.post-content .highlight code,
+.chroma {
+  font-family: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', 'Liberation Mono', 'Courier New', Consolas, monospace !important;
+} 
