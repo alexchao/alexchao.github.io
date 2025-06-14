@@ -18,7 +18,7 @@ AI can be likened to a reasonably smart coworker who’s always free to listen t
 
 At this point, the adoption of MCP across the industry has more or less confirmed its utility and promise. Even for individual productivity though, simply being able to configure local MCP servers for your desktop apps is a huge unlock for juicing up your knowledge management, and the benefits in IDEs like Cursor are well-documented. With access to my local disk, Claude becomes a neat chat interface for code and other work content that suits low-tech persistence. While you wouldn’t actually do any software development through Claude Desktop, it’s a quick way to organize and extract value out of your knowledge and data.
 
-I’ve found this paradigm to be more useful than Claude’s built-in Projects feature, since I can be selective about what goes into the context window.
+I’ve found this setup to be more useful than Claude’s built-in Projects feature, since I can be selective about what goes into the context window.
 
 ## Voice
 
