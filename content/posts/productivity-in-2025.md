@@ -6,7 +6,7 @@ draft: false
 
 It’s May 2025, and the AI revolution is in full swing. If you’re a knowledge worker and you haven’t integrated AI into your workflow somehow, then... like, what are you doing?
 
-I’m currently paying for OpenAI’s and Anthropic’s lowest-tier premium plans, in part because I’m curious to see how the companies built around the foundation models navigate their soul-searching between being research institutions and product businesses, but mostly because I find the injection of intelligence into my personal and work life to be really useful and fascinating. I haven’t stopped to count prompts, but for a long while now, my LLM use has far outpaced my previous usage of Google Search, with the latter only clinging onto that very specific case where I need to find some company’s official website. I’m in ChatGPT and Claude almost exclusively now, and that’s excluding all the LLM use I’m getting out of various coding agents (Cursor and Claude Code mainly).
+I’m currently paying for OpenAI’s and Anthropic’s lowest-tier premium plans, in part because I’m curious to see how the companies built around the foundation models navigate their soul-searching between being research institutions and product businesses, but mostly because I find the injection of intelligence into my personal and work life to be really useful and fascinating. I haven’t stopped to count prompts, but for a long while now, my LLM use has far outpaced my previous usage of traditional search, with the latter only clinging onto a few narrow use cases. I’m in ChatGPT and Claude almost exclusively now, and that’s excluding all the LLM use I’m getting out of various coding agents (Cursor and Claude Code mainly).
 
 ## Thinking Out Loud
 
@@ -22,7 +22,11 @@ I’ve found this setup to be more useful than Claude’s built-in Projects feat
 
 ## Voice
 
-It seems to be of no coincidence that far more people have started using voice input at the same time that LLM AI is becoming ubiquitous, and the trend is driven by the clear shift in the human-computer interaction paradigm. Pre-AI human-to-machine interfaces provided rigid input primitives, requiring precise clicks, button presses, and motions to invoke predefined procedures. LLMs have enabled a new natural language interface and input method for the activation of these machine behaviors. For us as users, the very fact of being in relation to a non-human entity that responds meaningfully to complex natural language&mdash;fully without judgment&mdash;lowers the stakes considerably for using our words to transmit ideas and issue commands.
+> The hottest new programming language is English
+>
+> — Andrej Karpathy
+
+It seems to be of no coincidence that far more people have started using voice input at the same time that LLM AI is becoming ubiquitous, and the trend is driven by the clear shift in the human-computer interaction paradigm. Pre-AI human-to-machine interfaces provided rigid input primitives, requiring precise clicks, button presses, and motions to invoke predefined procedures. LLMs have vastly accelerated the adoption of natural language as an interface and input method for the activation of these machine behaviors. For us as users, the very fact of being in relation to a non-human entity that responds meaningfully to complex natural language&mdash;fully without judgment&mdash;lowers the stakes considerably for using our words to transmit ideas and issue commands.
 
 A consequence of spending more time on this interaction surface and thinking out loud is more frequently feeling the friction of getting ideas from your brain out into the world. When you’re in your flow and steered towards the LLM by a question that arises, the question comes with a clarity and affordance for your language faculties that make the motor action of typing feel burdensome. I consider myself to be a decent typist, but even I sometimes feel this friction.
 
