@@ -36,11 +36,11 @@ A practical approach that I often take to learning involves figuring out what I 
 
 To reiterate a crucial point though: the productive faculties have to be *stressed*. The task presented to the brain has to meet a certain degree of difficulty. It's hard to pin down exactly what that difficulty is, but your typical vocab flashcards won't cut it. Rote memorization of word definitions is simply an exercise in building neural pathways at too small a scale. The right scale involves drawing connections between multiple concepts, or understanding how to situate the task in one of a number of possible contexts, and doing that in a open-ended format where you have nothing before you but empty space or silence to fill.
 
-Using your productive skills on tasks with a higher degree of difficulty ensures that you will regularly get things wrong, with a magntitude of error ranging from drawing a complete blank to missing a subtle but important distinction. Either way, being wrong is accompanied by a conscious recognition of the delta between your brain's output and the right answer. I can only attest to this from personal observation, but this subjective experience of being wrong is extremely important for strengthening those neural pathways. Perhaps it's a way to simultaneously build up inhibitory control over the incorrect patterns of activation, or maybe the emotional affect triggered by being wrong facilitates memory formation; whatever the case, being shown the error of your ways is winning.
+Using your productive skills on tasks with a higher degree of difficulty ensures that you will regularly get things wrong, with a magnitude of error ranging from drawing a complete blank to missing a subtle but important distinction. Either way, being wrong is accompanied by a conscious recognition of the delta between your brain's output and the right answer. I can only attest to this from personal observation, but this subjective experience of being wrong is extremely important for strengthening those neural pathways. Perhaps it's a way to simultaneously build up inhibitory control over the incorrect patterns of activation, or maybe the emotional affect triggered by being wrong facilitates memory formation; whatever the case, being shown the error of your ways is winning.
 
 # Spaced Repetition
 
-# Some Social Friction
+# Self-Administered Social Friction
 
 - Having to interrupt conversations all the time to make new flashcards
 - A sort of repugnant realization: it may become evident to you and your interlocuter that your relationship exists purely or at least primarily for the benefit of your language advancement
